@@ -1,0 +1,108 @@
+# Translation of Plugins - WP Responsive Table - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - WP Responsive Table - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-04 18:02:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - WP Responsive Table - Development (trunk)\n"
+
+#: src/Admin/Customizer.php:144
+msgid "Table column sort"
+msgstr "Включить сортировку"
+
+#: src/Admin/Customizer.php:59
+msgid "Width on large screen"
+msgstr "Ширина на больших экранах"
+
+#: src/Admin/Customizer.php:33
+msgid "Tables Settings"
+msgstr "Настройки таблиц"
+
+#: src/Admin/Customizer.php:152
+msgid "Donate to this plugin"
+msgstr "Пожертвовать на развитие плагина"
+
+#. Author URI of the plugin
+msgid "https://processby.com"
+msgstr "https://processby.com"
+
+#. Author of the plugin
+msgid "Processby"
+msgstr "Processby"
+
+#. Plugin URI of the plugin
+msgid "https://processby.com/responsive-tables-wordpress/"
+msgstr "https://processby.com/responsive-tables-wordpress/"
+
+#. Description of the plugin
+msgid "Makes HTML tables horizontally scrollable on a small screen"
+msgstr "Добавляет горизонтальную прокрутку для HTML таблиц на малых экранах"
+
+#: src/Admin/Customizer.php:136
+msgid "Row color"
+msgstr "Цвет строки таблицы"
+
+#: src/Admin/Customizer.php:129
+msgid "Alternating Row Colors"
+msgstr "Чередующийся цвет строк"
+
+#: src/Admin/Customizer.php:108
+msgid "Align right"
+msgstr "Справа"
+
+#: src/Admin/Customizer.php:106
+msgid "Align left"
+msgstr "Слева"
+
+#: src/Admin/Customizer.php:111
+msgid "Horizontal align"
+msgstr "Выравнивание по горизонтали"
+
+#: src/Admin/Customizer.php:107
+msgid "Align center"
+msgstr "По центру"
+
+#: src/Admin/Customizer.php:88
+msgid "Horizontal padding"
+msgstr "Горизонтальный отступ"
+
+#: src/Admin/Customizer.php:99
+msgid "Vertical padding"
+msgstr "Вертикальный отступ"
+
+#: src/Admin/Customizer.php:78
+msgid "Border color"
+msgstr "Цвет границ"
+
+#: src/Admin/Customizer.php:70
+msgid "Borders"
+msgstr "Границы"
+
+#: src/Admin/Customizer.php:45
+msgid "Use theme styles"
+msgstr "Использовать стили темы"
+
+#: src/Admin/Customizer.php:44
+msgid "Use plugin styles"
+msgstr "Использовать стили плагина"
+
+#: src/Admin/Customizer.php:48
+msgid "Table Display Settings"
+msgstr "Настройки отображения таблиц"
+
+#: src/Admin/Admin.php:62
+msgid "Settings"
+msgstr "Настройки"
+
+#: src/Admin/Admin.php:62
+msgid "View Wp Responsive Table settings"
+msgstr "Настройки WP Responsive Table"
+
+#. Plugin Name of the plugin
+msgid "WP Responsive Table"
+msgstr "WP Responsive Table"

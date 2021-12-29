@@ -1,0 +1,32 @@
+/*
+Theme Name: Impreza Child
+Template: Impreza
+Version: 1.0
+Author:	UpSolution
+Theme URI: http://impreza.us-themes.com/
+Author URI: http://us-themes.com/
+*/
+
+/*Add your own styles here:*/
+@import url('https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i|Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap&subset=cyrillic,cyrillic-ext,latin-ext'); 
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+
+
+button[type="submit"]:not(.w-btn), input[type="submit"] {
+    padding: 0.6em 1.8em;
+}
+.tinkoff_credit {
+    font-size: 0.8rem;
+    margin-top: 0.8rem;
+    margin-right: 0.6rem;
+    display: inline-block;
+}
+.entry-summary .tinkoff_credit {
+    font-size: inherit;
+    margin-top: 0px;
+    margin-right: 0px;
+    display: inline-block;
+}
+.entry-summary button[type="submit"]:not(.w-btn), .entry-summary input[type="submit"] {
+    padding: 0.6em 1.8em;
+}

@@ -1,0 +1,1855 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: FormCraft\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-23 20:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: formcraft-main.php:33
+msgid "1w"
+msgstr ""
+
+#: formcraft-main.php:34
+msgid "1m"
+msgstr ""
+
+#: formcraft-main.php:35
+msgid "1y"
+msgstr ""
+
+#: formcraft-main.php:36
+msgid ""
+"Set the widths of two fields to <Strong>50%</strong> each to fit them in one "
+"row.<br>You can have any number of fields in the same row, as long as the "
+"sum of widths is <strong>100%</strong>"
+msgstr ""
+
+#: formcraft-main.php:37
+msgid "The field label / key to use when sending data via a webhook"
+msgstr ""
+
+#: formcraft-main.php:38
+msgid ""
+"You can set the value of the options different from the text, using this "
+"pattern"
+msgstr ""
+
+#: formcraft-main.php:39
+msgid ""
+"Here, <strong>100</strong> would be the value, and <strong>Apple</strong> "
+"would be the text."
+msgstr ""
+
+#: formcraft-main.php:40
+msgid "Keep Data When Deleting Plugin"
+msgstr ""
+
+#: formcraft-main.php:41
+msgid ""
+"You need to enter the Google API Key when editing the field to make the "
+"autocomplete address field work"
+msgstr ""
+
+#: formcraft-main.php:42
+msgid "Form:"
+msgstr ""
+
+#: formcraft-main.php:43
+msgid "Embed Type:"
+msgstr ""
+
+#: formcraft-main.php:44
+msgid "Add a FormCraft form"
+msgstr ""
+
+#: formcraft-main.php:45 formcraft-main.php:1030
+msgid "Inline"
+msgstr ""
+
+#: formcraft-main.php:46
+msgid "Popup"
+msgstr ""
+
+#: formcraft-main.php:47
+msgid "Slide In"
+msgstr ""
+
+#: formcraft-main.php:48
+msgid "Button Text:"
+msgstr ""
+
+#: formcraft-main.php:49
+msgid "Alignment:"
+msgstr ""
+
+#: formcraft-main.php:50 formcraft-main.php:1024 formcraft-main.php:1029
+#: formcraft-main.php:1034
+msgid "Left"
+msgstr ""
+
+#: formcraft-main.php:51 formcraft-main.php:1025
+msgid "Center"
+msgstr ""
+
+#: formcraft-main.php:52 formcraft-main.php:1026 formcraft-main.php:1031
+#: formcraft-main.php:1035
+msgid "Right"
+msgstr ""
+
+#: formcraft-main.php:53
+msgid "Placement:"
+msgstr ""
+
+#: formcraft-main.php:54 formcraft-main.php:1036
+msgid "Bottom Right"
+msgstr ""
+
+#: formcraft-main.php:55
+msgid "Bind:"
+msgstr ""
+
+#: formcraft-main.php:56
+msgid "bind form popup action to a CSS selector"
+msgstr ""
+
+#: formcraft-main.php:57
+msgid "Class:"
+msgstr ""
+
+#: formcraft-main.php:58
+msgid "add a custom class to the popup button"
+msgstr ""
+
+#: formcraft-main.php:59
+msgid "Font Color:"
+msgstr ""
+
+#: formcraft-main.php:60
+msgid "font color of the button"
+msgstr ""
+
+#: formcraft-main.php:61
+msgid "Button Color:"
+msgstr ""
+
+#: formcraft-main.php:62
+msgid "color of the button"
+msgstr ""
+
+#: formcraft-main.php:63
+msgid "Auto Popup:"
+msgstr ""
+
+#: formcraft-main.php:64
+msgid "auto popup the form on page load after x seconds"
+msgstr ""
+
+#: formcraft-main.php:65
+msgid "You will lose any un-saved changes."
+msgstr ""
+
+#: formcraft-main.php:66
+msgid "Free AddOns"
+msgstr ""
+
+#: formcraft-main.php:67
+msgid "Purchased AddOns"
+msgstr ""
+
+#: formcraft-main.php:68
+msgid "Paid AddOns"
+msgstr ""
+
+#: formcraft-main.php:69 views/builder.php:292
+msgid "read more"
+msgstr ""
+
+#: formcraft-main.php:70
+msgid "Nothing Left To Install"
+msgstr ""
+
+#: formcraft-main.php:71
+msgid "Please check your internet connection"
+msgstr ""
+
+#: formcraft-main.php:72
+msgid "back"
+msgstr ""
+
+#: formcraft-main.php:73
+msgid "Help Topics"
+msgstr ""
+
+#: formcraft-main.php:74
+msgid "Sorry, nothing here"
+msgstr ""
+
+#: formcraft-main.php:75
+msgid "Contact Support"
+msgstr ""
+
+#: formcraft-main.php:76
+msgid "Unknown Error."
+msgstr ""
+
+#: formcraft-main.php:77
+msgid "Failed Saving."
+msgstr ""
+
+#: formcraft-main.php:78
+msgid "Failed Saving. Please try disabing your firewall, or security plugin."
+msgstr ""
+
+#: formcraft-main.php:79
+msgid "Debug Info"
+msgstr ""
+
+#: formcraft-main.php:80
+msgid "Invalid"
+msgstr ""
+
+#: formcraft-main.php:81 views/builder.php:520
+msgid "Min [x] characters required"
+msgstr ""
+
+#: formcraft-main.php:82 formcraft-main.php:83 views/builder.php:521
+msgid "Max [x] characters allowed"
+msgstr ""
+
+#: formcraft-main.php:84
+msgid "test"
+msgstr ""
+
+#: formcraft-main.php:85 views/builder.php:524
+msgid "Files bigger than [x] MB not allowed"
+msgstr ""
+
+#: formcraft-main.php:86
+msgid "Invalid Email"
+msgstr ""
+
+#: formcraft-main.php:87 views/builder.php:529
+msgid "Invalid URL"
+msgstr ""
+
+#: formcraft-main.php:88 views/builder.php:530
+msgid "Invalid Expression"
+msgstr ""
+
+#: formcraft-main.php:89
+msgid "Only alphabets"
+msgstr ""
+
+#: formcraft-main.php:90
+msgid "Only numbers"
+msgstr ""
+
+#: formcraft-main.php:91
+msgid "Should be alphanumeric"
+msgstr ""
+
+#: formcraft-main.php:92
+msgid "Please correct the errors and try again"
+msgstr ""
+
+#: formcraft-main.php:93
+msgid "Message received"
+msgstr ""
+
+#: formcraft-main.php:94
+msgid ""
+"<p>Hello [Name],</p><p><br></p><p>We have received your submission. Here are "
+"the details you have submitted to us:</p><p>[Form Content]</p><p><br></p><p>"
+"Regards,</p><p>Nishant</p>"
+msgstr ""
+
+#: formcraft-main.php:95 views/builder.php:449
+msgid "Thank you for your submission"
+msgstr ""
+
+#: formcraft-main.php:96
+msgid ""
+"<p>Hello,</p><p><br></p><p>You have received a new form submission for the "
+"form [Form Name]. Here are the details:</p><p>[Form Content]</p><p><br></p>"
+"<p>Page: [URL]<br>Unique ID: #[Entry ID]<br>Date: [Date]<br>Time: [Time]</p>"
+msgstr ""
+
+#: formcraft-main.php:97 formcraft-main.php:2930 formcraft-main.php:3062
+msgid "New Form Submission"
+msgstr ""
+
+#: formcraft-main.php:98 views/builder.php:51
+msgid "Heading"
+msgstr ""
+
+#: formcraft-main.php:99
+msgid "Some Title"
+msgstr ""
+
+#: formcraft-main.php:100 formcraft-main.php:151
+msgid "Name"
+msgstr ""
+
+#: formcraft-main.php:101
+msgid "your full name"
+msgstr ""
+
+#: formcraft-main.php:102 views/builder.php:66 views/builder.php:359
+msgid "Password"
+msgstr ""
+
+#: formcraft-main.php:103
+msgid "check your caps"
+msgstr ""
+
+#: formcraft-main.php:104 views/builder.php:242
+msgid "Email"
+msgstr ""
+
+#: formcraft-main.php:105
+msgid "a valid email"
+msgstr ""
+
+#: formcraft-main.php:106
+msgid "Comments"
+msgstr ""
+
+#: formcraft-main.php:107
+msgid "more details"
+msgstr ""
+
+#: formcraft-main.php:108
+msgid "Favorite Fruits"
+msgstr ""
+
+#: formcraft-main.php:109
+msgid "pick one!"
+msgstr ""
+
+#: formcraft-main.php:110
+msgid "Language"
+msgstr ""
+
+#: formcraft-main.php:111
+msgid "Date"
+msgstr ""
+
+#: formcraft-main.php:112 formcraft-main.php:121
+msgid "of appointment"
+msgstr ""
+
+#: formcraft-main.php:113
+msgid "Add some text or <strong>HTML</strong> here"
+msgstr ""
+
+#: formcraft-main.php:114
+msgid "Text Field"
+msgstr ""
+
+#: formcraft-main.php:115
+msgid "Submit Form"
+msgstr ""
+
+#: formcraft-main.php:116
+msgid "File"
+msgstr ""
+
+#: formcraft-main.php:117
+msgid "upload"
+msgstr ""
+
+#: formcraft-main.php:118 views/builder.php:68
+msgid "Slider"
+msgstr ""
+
+#: formcraft-main.php:119
+msgid "take your pick"
+msgstr ""
+
+#: formcraft-main.php:120
+msgid "Time"
+msgstr ""
+
+#: formcraft-main.php:122 views/builder.php:70
+msgid "Address"
+msgstr ""
+
+#: formcraft-main.php:123
+msgid "your home / office"
+msgstr ""
+
+#: formcraft-main.php:124
+msgid "Rate"
+msgstr ""
+
+#: formcraft-main.php:125
+msgid "our support"
+msgstr ""
+
+#: formcraft-main.php:126
+msgid "Liked the food?"
+msgstr ""
+
+#: formcraft-main.php:127
+msgid "let us know"
+msgstr ""
+
+#: formcraft-main.php:128 views/builder.php:75
+msgid "Survey"
+msgstr ""
+
+#: formcraft-main.php:129
+msgid "How Was the Food?"
+msgstr ""
+
+#: formcraft-main.php:130
+msgid "How Was the Service?"
+msgstr ""
+
+#: formcraft-main.php:131
+msgid "Poor"
+msgstr ""
+
+#: formcraft-main.php:132
+msgid "Average"
+msgstr ""
+
+#: formcraft-main.php:133
+msgid "Good"
+msgstr ""
+
+#: formcraft-main.php:134
+msgid "Bad"
+msgstr ""
+
+#: formcraft-main.php:135
+msgid "Could be better"
+msgstr ""
+
+#: formcraft-main.php:136
+msgid "So so"
+msgstr ""
+
+#: formcraft-main.php:137
+msgid "Excellent"
+msgstr ""
+
+#: formcraft-main.php:138
+msgid "Blank"
+msgstr ""
+
+#: formcraft-main.php:139 views/dashboard.php:249
+msgid "Template"
+msgstr ""
+
+#: formcraft-main.php:140 views/dashboard.php:259
+msgid "Duplicate"
+msgstr ""
+
+#: formcraft-main.php:141
+msgid "Import"
+msgstr ""
+
+#: formcraft-main.php:142
+msgid "(blank form)"
+msgstr ""
+
+#: formcraft-main.php:143
+msgid "80% Zoom"
+msgstr ""
+
+#: formcraft-main.php:144
+msgid "Select Form Template To View"
+msgstr ""
+
+#: formcraft-main.php:145 formcraft-main.php:179 formcraft-main.php:1012
+msgid "Select Form"
+msgstr ""
+
+#: formcraft-main.php:146 views/dashboard.php:304
+msgid "Create Form"
+msgstr ""
+
+#: formcraft-main.php:147
+msgid "No Forms Found"
+msgstr ""
+
+#: formcraft-main.php:148 formcraft-main.php:3456
+msgid "Forms"
+msgstr ""
+
+#: formcraft-main.php:149 views/dashboard.php:156
+msgid "New Form"
+msgstr ""
+
+#: formcraft-main.php:150
+msgid "ID"
+msgstr ""
+
+#: formcraft-main.php:152
+msgid "Last Edit"
+msgstr ""
+
+#: formcraft-main.php:153
+msgid "Sure? This action can't be reversed."
+msgstr ""
+
+#: formcraft-main.php:154
+msgid "Form Analytics"
+msgstr ""
+
+#: formcraft-main.php:155
+msgid "reset analytics data"
+msgstr ""
+
+#: formcraft-main.php:156 formcraft-main.php:182
+msgid "Custom"
+msgstr ""
+
+#: formcraft-main.php:157
+msgid "All Forms"
+msgstr ""
+
+#: formcraft-main.php:158
+msgid "form views"
+msgstr ""
+
+#: formcraft-main.php:159 views/builder.php:274
+msgid "submissions"
+msgstr ""
+
+#: formcraft-main.php:160 formcraft-main.php:162
+msgid "conversion"
+msgstr ""
+
+#: formcraft-main.php:161
+msgid "charges"
+msgstr ""
+
+#: formcraft-main.php:163
+msgid "No Entries Found"
+msgstr ""
+
+#: formcraft-main.php:164
+msgid "Select Form to Export"
+msgstr ""
+
+#: formcraft-main.php:165
+msgid "Separator:"
+msgstr ""
+
+#: formcraft-main.php:166
+msgid "Comma (CSV format)"
+msgstr ""
+
+#: formcraft-main.php:167
+msgid "Semicolon"
+msgstr ""
+
+#: formcraft-main.php:168
+msgid "Export"
+msgstr ""
+
+#: formcraft-main.php:169 formcraft-main.php:3457
+msgid "Entries"
+msgstr ""
+
+#: formcraft-main.php:170
+msgid "(All Forms)"
+msgstr ""
+
+#: formcraft-main.php:171 formcraft-main.php:206
+msgid "Created"
+msgstr ""
+
+#: formcraft-main.php:172
+msgid "Hide Empty Fields"
+msgstr ""
+
+#: formcraft-main.php:173
+msgid "Save Changes"
+msgstr ""
+
+#: formcraft-main.php:174
+msgid "Edit Entry"
+msgstr ""
+
+#: formcraft-main.php:175
+msgid "Print"
+msgstr ""
+
+#: formcraft-main.php:176
+msgid "Referer"
+msgstr ""
+
+#: formcraft-main.php:177 formcraft-main.php:211 formcraft-main.php:3458
+#: views/dashboard.php:158
+msgid "Insights"
+msgstr ""
+
+#: formcraft-main.php:178
+msgid "Get Insights"
+msgstr ""
+
+#: formcraft-main.php:180
+msgid "Period"
+msgstr ""
+
+#: formcraft-main.php:181
+msgid "All"
+msgstr ""
+
+#: formcraft-main.php:183
+msgid "From"
+msgstr ""
+
+#: formcraft-main.php:184
+msgid "To"
+msgstr ""
+
+#: formcraft-main.php:185
+msgid "Max Entries"
+msgstr ""
+
+#: formcraft-main.php:186
+msgid "Entries Analyzed"
+msgstr ""
+
+#: formcraft-main.php:187
+msgid "No Insights Available"
+msgstr ""
+
+#: formcraft-main.php:188
+msgid "learn more"
+msgstr ""
+
+#: formcraft-main.php:189
+msgid "License Key verified"
+msgstr ""
+
+#: formcraft-main.php:190
+msgid "Verified"
+msgstr ""
+
+#: formcraft-main.php:191
+msgid "Update Key Info"
+msgstr ""
+
+#: formcraft-main.php:192
+msgid "Verify Key"
+msgstr ""
+
+#: formcraft-main.php:193 views/dashboard.php:190
+msgid "Purchased On"
+msgstr ""
+
+#: formcraft-main.php:194
+msgid "Last Check"
+msgstr ""
+
+#: formcraft-main.php:195
+msgid "Expires On"
+msgstr ""
+
+#: formcraft-main.php:196
+msgid "More Info"
+msgstr ""
+
+#: formcraft-main.php:197
+msgid "days too late"
+msgstr ""
+
+#: formcraft-main.php:198
+msgid "days left"
+msgstr ""
+
+#: formcraft-main.php:199
+msgid "Renew License Key"
+msgstr ""
+
+#: formcraft-main.php:200
+msgid ""
+"renewing the license key gives you access to auto plugin updates and free "
+"customer support"
+msgstr ""
+
+#: formcraft-main.php:201
+msgid "No Files Found"
+msgstr ""
+
+#: formcraft-main.php:202 views/dashboard.php:160
+msgid "File Uploads"
+msgstr ""
+
+#: formcraft-main.php:203
+msgid "Trash"
+msgstr ""
+
+#: formcraft-main.php:204
+msgid "Type"
+msgstr ""
+
+#: formcraft-main.php:205
+msgid "Size"
+msgstr ""
+
+#: formcraft-main.php:207
+msgid "Disable Analytics"
+msgstr ""
+
+#: formcraft-main.php:208 views/builder.php:1159
+msgid "Search"
+msgstr ""
+
+#: formcraft-main.php:209
+msgid "Loading"
+msgstr ""
+
+#: formcraft-main.php:210
+msgid "Entry View"
+msgstr ""
+
+#: formcraft-main.php:212
+msgid "Your License Key"
+msgstr ""
+
+#: formcraft-main.php:213
+msgid "Your Email"
+msgstr ""
+
+#: formcraft-main.php:340
+msgid "License Key can't be empty"
+msgstr ""
+
+#: formcraft-main.php:344
+msgid "Email can't be empty"
+msgstr ""
+
+#: formcraft-main.php:348
+msgid "Invalid email"
+msgstr ""
+
+#: formcraft-main.php:369
+msgid "Could not connect"
+msgstr ""
+
+#: formcraft-main.php:652
+msgid "Can't install plugins in demo mode"
+msgstr ""
+
+#: formcraft-main.php:669
+msgid "Unknwon error"
+msgstr ""
+
+#: formcraft-main.php:676
+msgid ""
+"Plugin / Add-On is already installed. Please go to the Wordpress Plugins "
+"page and activate it."
+msgstr ""
+
+#: formcraft-main.php:688
+msgid "Plugin already installed. Maybe not activated?"
+msgstr ""
+
+#: formcraft-main.php:709
+msgid "Could not activate plugin"
+msgstr ""
+
+#: formcraft-main.php:715
+msgid "Could not install plugin"
+msgstr ""
+
+#: formcraft-main.php:867
+msgid "Form Preview"
+msgstr ""
+
+#: formcraft-main.php:871
+msgid "To send form notifications to emails, add an email address to"
+msgstr ""
+
+#: formcraft-main.php:871
+msgid "Options → Email → Email Notifications → Send Email(s) To"
+msgstr ""
+
+#: formcraft-main.php:996
+msgid "Insert FormCraft Form"
+msgstr ""
+
+#: formcraft-main.php:996 formcraft-main.php:1047
+msgid "Add Form"
+msgstr ""
+
+#: formcraft-main.php:1018
+msgid "Select Embed Type"
+msgstr ""
+
+#: formcraft-main.php:1019
+msgid "Inline Form"
+msgstr ""
+
+#: formcraft-main.php:1020
+msgid "Popup Form"
+msgstr ""
+
+#: formcraft-main.php:1021
+msgid "Slide In Form"
+msgstr ""
+
+#: formcraft-main.php:1023
+msgid "Select Alignment"
+msgstr ""
+
+#: formcraft-main.php:1028 formcraft-main.php:1033
+msgid "Select Button Placement"
+msgstr ""
+
+#: formcraft-main.php:1038
+msgid "Button Text / Image URL"
+msgstr ""
+
+#: formcraft-main.php:1308
+msgid "This form does not exist"
+msgstr ""
+
+#: formcraft-main.php:1489
+msgid "WordPress form builder"
+msgstr ""
+
+#: formcraft-main.php:1540
+msgid "Embed Form"
+msgstr ""
+
+#: formcraft-main.php:1717
+msgid "Form name can't be empty."
+msgstr ""
+
+#: formcraft-main.php:1732 formcraft-main.php:1765
+msgid "Please upload a template file."
+msgstr ""
+
+#: formcraft-main.php:1738 formcraft-main.php:1771
+msgid "Invalid form template."
+msgstr ""
+
+#: formcraft-main.php:1751
+msgid "Select a form to duplicate."
+msgstr ""
+
+#: formcraft-main.php:1798
+msgid "Could not write to database"
+msgstr ""
+
+#: formcraft-main.php:1802
+msgid "Form created. Redirecting."
+msgstr ""
+
+#: formcraft-main.php:1875
+msgid " submission(s) deleted"
+msgstr ""
+
+#: formcraft-main.php:1878
+msgid "Failed deleting submissions"
+msgstr ""
+
+#: formcraft-main.php:2005
+msgid "Can't reset data in demo mode"
+msgstr ""
+
+#: formcraft-main.php:2011
+msgid "Data reset"
+msgstr ""
+
+#: formcraft-main.php:2035
+msgid "deleted"
+msgstr ""
+
+#: formcraft-main.php:2038
+msgid "Failed deleting form"
+msgstr ""
+
+#: formcraft-main.php:2246
+msgid "Could not read template file. Insufficient permission."
+msgstr ""
+
+#: formcraft-main.php:2253
+msgid "Could not read template file"
+msgstr ""
+
+#: formcraft-main.php:2329
+msgid "No email specified"
+msgstr ""
+
+#: formcraft-main.php:2349
+msgid "Invalid e-mail"
+msgstr ""
+
+#: formcraft-main.php:2371 formcraft-main.php:2387
+msgid "Test Email from FormCraft"
+msgstr ""
+
+#: formcraft-main.php:2372 formcraft-main.php:2388
+msgid ""
+"Hey,<br><br>This is a test email sent from FormCraft, for WordPress. If you "
+"have received this email, it means your settings are working correctly."
+msgstr ""
+
+#: formcraft-main.php:2373
+msgid ""
+"Hey,\n"
+"This is a test email sent from FormCraft, for WordPress. If you have "
+"received this email, it means your settings are working correctly."
+msgstr ""
+
+#: formcraft-main.php:2394
+msgid "Email setup error"
+msgstr ""
+
+#: formcraft-main.php:2403
+msgid "0 email sent"
+msgstr ""
+
+#: formcraft-main.php:2405
+msgid " email(s) sent"
+msgstr ""
+
+#: formcraft-main.php:2420 formcraft-main.php:3386
+msgid "Invalid Form ID"
+msgstr ""
+
+#: formcraft-main.php:2424
+msgid "SPAM detected"
+msgstr ""
+
+#: formcraft-main.php:2428
+msgid "Can't submit forms in preview mode"
+msgstr ""
+
+#: formcraft-main.php:2706
+msgid "Unknown"
+msgstr ""
+
+#: formcraft-main.php:2925
+msgid "Failed to Write"
+msgstr ""
+
+#: formcraft-main.php:2935 formcraft-main.php:3069
+msgid "[Form Content]"
+msgstr ""
+
+#: formcraft-main.php:3043
+msgid "Autoresponder Not Sent: "
+msgstr ""
+
+#: formcraft-main.php:3045
+msgid " autoresponder email(s) sent"
+msgstr ""
+
+#: formcraft-main.php:3182
+msgid "Email Not Sent: "
+msgstr ""
+
+#: formcraft-main.php:3185
+msgid " notification email(s) sent"
+msgstr ""
+
+#: formcraft-main.php:3318
+msgid "Invalid Key?"
+msgstr ""
+
+#: formcraft-main.php:3352
+msgid " file(s) deleted"
+msgstr ""
+
+#: formcraft-main.php:3365 formcraft-main.php:3410 formcraft-main.php:3436
+msgid "Failed"
+msgstr ""
+
+#: formcraft-main.php:3366
+msgid "Invalid File Size"
+msgstr ""
+
+#: formcraft-main.php:3381 formcraft-main.php:3429
+msgid "Invalid File Format"
+msgstr ""
+
+#: formcraft-main.php:3459
+msgid "Uploads"
+msgstr ""
+
+#: formcraft-main.php:3461 views/dashboard.php:159
+msgid "License"
+msgstr ""
+
+#: formcraft-main.php:3529
+msgid "Edit Form: "
+msgstr ""
+
+#: formcraft-main.php:3623
+msgid "Click here to register your copy of FormCraft"
+msgstr ""
+
+#: formcraft-main.php:3667
+msgid "Your license seems to have expired."
+msgstr ""
+
+#: formcraft-main.php:3667
+msgid "Click here to renew it."
+msgstr ""
+
+#: formcraft-main.php:3667
+msgid "Read More."
+msgstr ""
+
+#: formcraft-main.php:3667
+msgid "Dismiss"
+msgstr ""
+
+#: formcraft-main.php:3813
+msgid "and"
+msgstr ""
+
+#: formcraft-main.php:4002
+msgid "Empty filename"
+msgstr ""
+
+#: formcraft-main.php:4037
+#, php-format
+msgid ""
+"Unable to create directory %s. Is its parent directory writable by the "
+"server?"
+msgstr ""
+
+#: formcraft-main.php:4049
+#, php-format
+msgid "Could not write file %s"
+msgstr ""
+
+#: views/dashboard.php:80
+msgid ""
+"We have known issues with Internet Exporer. Please use Chrome or FireFox "
+"browser."
+msgstr ""
+
+#: views/dashboard.php:86 views/dashboard.php:90
+msgid "Please enter the purchase key to register the plugin"
+msgstr ""
+
+#: views/dashboard.php:94
+msgid ""
+"To run FormCraft on all sub-sites with one license, you need the <a "
+"target=\"_blank\" href=\"http://formcraft-wp.com/addons/multi-site/\">"
+"FormCraft Multi Site Add-On</a>"
+msgstr ""
+
+#: views/dashboard.php:107
+msgid ""
+"\">here</a> to renew it. <a target=\"_blank\" href=\"http://formcraft-wp."
+"com/help/faq-plugin-license/\">Read more</a>. <a href=\"admin.php?"
+"page=formcraft3_dashboard&no_license_message\">Dismiss</a>."
+msgstr ""
+
+#: views/dashboard.php:155 views/builder.php:910
+msgid "Dashboard"
+msgstr ""
+
+#: views/dashboard.php:157
+msgid "Submissions"
+msgstr ""
+
+#: views/dashboard.php:187
+msgid "Your copy of FormCraft is registered"
+msgstr ""
+
+#: views/dashboard.php:192
+msgid "Free Support and Updates Till"
+msgstr ""
+
+#: views/dashboard.php:194
+msgid "Last Verified"
+msgstr ""
+
+#: views/dashboard.php:201
+msgid "Refresh Info"
+msgstr ""
+
+#: views/dashboard.php:215
+msgid ""
+"You need to register your copy of FormCraft below to get plugin updates, and "
+"support."
+msgstr ""
+
+#: views/dashboard.php:220
+msgid ""
+"Later on, you can create an account on <strong><a target='_blank' href='http:"
+"//formcraft-wp.com/dashboard'>formcraft-wp.com</a></strong> with this email, "
+"and manage your license keys, add-ons, and get support.<br> Don't worry. We "
+"don't use this to send you any email."
+msgstr ""
+
+#: views/dashboard.php:221
+msgid ""
+"Your license key would look something like: <br><strong>2zd567ac-ed32-6fg4-"
+"827d-23a89cb05d08</strong><br><strong><a target=\"_blank\" href=\"http:"
+"//ncrafts.net/blog/2014/05/where-to-find-the-purchase-code-of-items/\">Where "
+"do I find my license key?</a></strong>"
+msgstr ""
+
+#: views/dashboard.php:225
+msgid "Register"
+msgstr ""
+
+#: views/dashboard.php:244
+msgid "Blank Form"
+msgstr ""
+
+#: views/dashboard.php:254
+msgid "Import Form"
+msgstr ""
+
+#: views/dashboard.php:283
+msgid "Upload Template File"
+msgstr ""
+
+#: views/dashboard.php:291
+msgid "Select Form To Duplicate"
+msgstr ""
+
+#: views/dashboard.php:300 views/builder.php:535
+msgid "Form Name"
+msgstr ""
+
+#: views/builder.php:47
+msgid "Add Field"
+msgstr ""
+
+#: views/builder.php:52
+msgid "One Line Input"
+msgstr ""
+
+#: views/builder.php:53
+msgid "Email Input"
+msgstr ""
+
+#: views/builder.php:54
+msgid "Textarea"
+msgstr ""
+
+#: views/builder.php:55
+msgid "Checkbox"
+msgstr ""
+
+#: views/builder.php:56
+msgid "Dropdown"
+msgstr ""
+
+#: views/builder.php:57
+msgid "Datepicker"
+msgstr ""
+
+#: views/builder.php:58 views/builder.php:244
+msgid "Custom Text"
+msgstr ""
+
+#: views/builder.php:59
+msgid "Submit"
+msgstr ""
+
+#: views/builder.php:64
+msgid "More Fields"
+msgstr ""
+
+#: views/builder.php:67
+msgid "File Upload"
+msgstr ""
+
+#: views/builder.php:69
+msgid "Timepicker"
+msgstr ""
+
+#: views/builder.php:77
+msgid "Thumb Rating"
+msgstr ""
+
+#: views/builder.php:78
+msgid "Star Rating"
+msgstr ""
+
+#: views/builder.php:79
+msgid "Choice Matrix"
+msgstr ""
+
+#: views/builder.php:94
+msgid "Conditions"
+msgstr ""
+
+#: views/builder.php:95
+msgid "Actions"
+msgstr ""
+
+#: views/builder.php:99
+msgid "if"
+msgstr ""
+
+#: views/builder.php:105 views/builder.php:156
+msgid "field"
+msgstr ""
+
+#: views/builder.php:113
+msgid "trigger"
+msgstr ""
+
+#: views/builder.php:114
+msgid "is equal to"
+msgstr ""
+
+#: views/builder.php:115
+msgid "is not equal to"
+msgstr ""
+
+#: views/builder.php:116
+msgid "contains"
+msgstr ""
+
+#: views/builder.php:117
+msgid "doest not contain"
+msgstr ""
+
+#: views/builder.php:118
+msgid "is greater than"
+msgstr ""
+
+#: views/builder.php:119
+msgid "is less than"
+msgstr ""
+
+#: views/builder.php:135
+msgid "add condition row"
+msgstr ""
+
+#: views/builder.php:138
+msgid "then"
+msgstr ""
+
+#: views/builder.php:147
+msgid "(action)"
+msgstr ""
+
+#: views/builder.php:148
+msgid "show fields"
+msgstr ""
+
+#: views/builder.php:149
+msgid "hide fields"
+msgstr ""
+
+#: views/builder.php:150
+msgid "send email to"
+msgstr ""
+
+#: views/builder.php:151
+msgid "redirect to"
+msgstr ""
+
+#: views/builder.php:152
+msgid "trigger integration"
+msgstr ""
+
+#: views/builder.php:153
+msgid "set value of"
+msgstr ""
+
+#: views/builder.php:168
+msgid "(select)"
+msgstr ""
+
+#: views/builder.php:181
+msgid "add action row"
+msgstr ""
+
+#: views/builder.php:186
+msgid "Add New Logic"
+msgstr ""
+
+#: views/builder.php:187
+msgid "how to use Conditional Logic"
+msgstr ""
+
+#: views/builder.php:195
+msgid "Installed"
+msgstr ""
+
+#: views/builder.php:196
+msgid "Add New"
+msgstr ""
+
+#: views/builder.php:229
+msgid "No Installed Addons"
+msgstr ""
+
+#: views/builder.php:241 views/builder.php:616
+msgid "General"
+msgstr ""
+
+#: views/builder.php:243
+msgid "Embed"
+msgstr ""
+
+#: views/builder.php:245
+msgid "Advanced"
+msgstr ""
+
+#: views/builder.php:251
+msgid "Disable form"
+msgstr ""
+
+#: views/builder.php:252 views/builder.php:267 views/builder.php:276
+msgid "Show this message when disabled: "
+msgstr ""
+
+#: views/builder.php:259
+msgid "Disable form page"
+msgstr ""
+
+#: views/builder.php:260 views/builder.php:475
+msgid "You can share this link directly to allow people to fill the form"
+msgstr ""
+
+#: views/builder.php:266
+msgid "Disable multiple submissions from same device"
+msgstr ""
+
+#: views/builder.php:274
+msgid "Disable form when it reaches"
+msgstr ""
+
+#: views/builder.php:275
+msgid "Current submission counter"
+msgstr ""
+
+#: views/builder.php:283
+msgid "Disable auto-scroll"
+msgstr ""
+
+#: views/builder.php:287
+msgid "Enable auto-save form progress"
+msgstr ""
+
+#: views/builder.php:288
+msgid ""
+"Your users' data is automatically saved as they type. If the form is not "
+"submitted, they can come back to the form later on, and will be able to "
+"continue from where they left. The data is stored for 60 days."
+msgstr ""
+
+#: views/builder.php:292
+msgid "Send data to custom URL"
+msgstr ""
+
+#: views/builder.php:294
+msgid ""
+"When the form has been successfully submitted, we will also send the form "
+"data to a URL of your choice:"
+msgstr ""
+
+#: views/builder.php:313
+msgid "Email Setup"
+msgstr ""
+
+#: views/builder.php:320
+msgid "what do I fill in here?"
+msgstr ""
+
+#: views/builder.php:328
+msgid "WP Mail"
+msgstr ""
+
+#: views/builder.php:332
+msgid "SMTP Method"
+msgstr ""
+
+#: views/builder.php:334
+msgid ""
+"<strong>WP Mail:</strong> Uses default WordPress mail settings. If you have "
+"configured a third-party email plugin, check this option.<br/><strong>SMTP "
+"Method:</strong> Use custom SMTP settings to send emails. This method "
+"requires you to have SMTP config from your web host."
+msgstr ""
+
+#: views/builder.php:340 views/builder.php:350 views/builder.php:436
+msgid "Sender Name"
+msgstr ""
+
+#: views/builder.php:343 views/builder.php:353 views/builder.php:442
+msgid "Sender Email"
+msgstr ""
+
+#: views/builder.php:356
+msgid "Username"
+msgstr ""
+
+#: views/builder.php:362
+msgid "SMTP Host"
+msgstr ""
+
+#: views/builder.php:370
+msgid "Security Type"
+msgstr ""
+
+#: views/builder.php:371 views/builder.php:550
+msgid "None"
+msgstr ""
+
+#: views/builder.php:381
+msgid "Send Test Email To:"
+msgstr ""
+
+#: views/builder.php:382
+msgid ""
+"You can send a test email to check if the email settings are working "
+"properly.<br>Add an email here, and press Enter"
+msgstr ""
+
+#: views/builder.php:384
+msgid "press Enter to send"
+msgstr ""
+
+#: views/builder.php:391
+msgid "Email Notifications"
+msgstr ""
+
+#: views/builder.php:395
+msgid "Send Email(s) To"
+msgstr ""
+
+#: views/builder.php:396
+msgid ""
+"When the form is submitted, an email will be sent to these addresses.<br>You "
+"can add multiple emails, separated by a comma."
+msgstr ""
+
+#: views/builder.php:402 views/builder.php:448
+msgid "Email Subject"
+msgstr ""
+
+#: views/builder.php:403
+msgid ""
+"You can add form values to subject, using the labels of fields, example: "
+"<strong>[Your Name]</strong>"
+msgstr ""
+
+#: views/builder.php:409
+msgid "Email Body"
+msgstr ""
+
+#: views/builder.php:413 views/builder.php:458
+msgid "read more about customising email content"
+msgstr ""
+
+#: views/builder.php:417
+msgid "Attach file uploads to emails"
+msgstr ""
+
+#: views/builder.php:421
+msgid "Use form's multi-column layout in email body"
+msgstr ""
+
+#: views/builder.php:425
+msgid "Don't show tags in the email for empty-value or hidden fields"
+msgstr ""
+
+#: views/builder.php:429
+msgid "Email Autoresponders"
+msgstr ""
+
+#: views/builder.php:432
+msgid ""
+"Make sure to edit the email field in your form and check the option \"Send "
+"Autoresponder\" for fields where we should send autoresponder emails."
+msgstr ""
+
+#: views/builder.php:437
+msgid "John Smith"
+msgstr ""
+
+#: views/builder.php:443
+msgid "john@gmail.com"
+msgstr ""
+
+#: views/builder.php:454
+msgid "Email Content"
+msgstr ""
+
+#: views/builder.php:461 views/builder.php:468
+msgid "Attach Files"
+msgstr ""
+
+#: views/builder.php:473
+msgid "Dedicated Form Page"
+msgstr ""
+
+#: views/builder.php:480
+msgid "Disable This Page"
+msgstr ""
+
+#: views/builder.php:484
+msgid "Shortcode"
+msgstr ""
+
+#: views/builder.php:486
+msgid "Add this shortcode to your page / post"
+msgstr ""
+
+#: views/builder.php:488 views/builder.php:495 views/builder.php:507
+msgid "Read more"
+msgstr ""
+
+#: views/builder.php:492
+msgid "Post / Page Editor"
+msgstr ""
+
+#: views/builder.php:498
+msgid "PHP Function"
+msgstr ""
+
+#: views/builder.php:510
+msgid "Widget"
+msgstr ""
+
+#: views/builder.php:512
+msgid "Go to Appearance → Widgets, and add a FormCraft widget"
+msgstr ""
+
+#: views/builder.php:516
+msgid "Form success message (you can use HTML here)"
+msgstr ""
+
+#: views/builder.php:517
+msgid "Form failed message"
+msgstr ""
+
+#: views/builder.php:518
+msgid "Required field"
+msgstr ""
+
+#: views/builder.php:519
+msgid "Invalid value"
+msgstr ""
+
+#: views/builder.php:522
+msgid "Min [x] file(s) required"
+msgstr ""
+
+#: views/builder.php:523
+msgid "Max [x] file(s) allowed"
+msgstr ""
+
+#: views/builder.php:525
+msgid "Invalid Email Address"
+msgstr ""
+
+#: views/builder.php:526
+msgid "Only alphabets allowed"
+msgstr ""
+
+#: views/builder.php:527
+msgid "Only numbers allowed"
+msgstr ""
+
+#: views/builder.php:528
+msgid "Only alphabets and numbers allowed"
+msgstr ""
+
+#: views/builder.php:540
+msgid "Redirect on Submit"
+msgstr ""
+
+#: views/builder.php:541
+msgid ""
+"Your redirect URL can contain values from your form. If your form has a "
+"field with the label Your Name, your redirect URL can use: http://example."
+"com/?name=[Your Name]"
+msgstr ""
+
+#: views/builder.php:545
+msgid "Redirect"
+msgstr ""
+
+#: views/builder.php:545
+msgid "seconds after form submit"
+msgstr ""
+
+#: views/builder.php:548
+msgid "Thousand separator: "
+msgstr ""
+
+#: views/builder.php:558
+msgid "Decimal separator: "
+msgstr ""
+
+#: views/builder.php:567
+msgid "Don't show success message if redirect is enabled"
+msgstr ""
+
+#: views/builder.php:571
+msgid "Don't submit values for hidden fields"
+msgstr ""
+
+#: views/builder.php:575
+msgid "Enable spin effect on math numbers"
+msgstr ""
+
+#: views/builder.php:579
+msgid "Disable form submit on Enter"
+msgstr ""
+
+#: views/builder.php:583
+msgid "Delete entries"
+msgstr ""
+
+#: views/builder.php:585
+msgid "days later"
+msgstr ""
+
+#: views/builder.php:588
+msgid ""
+"You can set this to 0 to disable storing form entries in the database "
+"altogether. You would be relying on emails then. Please note that this "
+"option applies to all entries, including those collected before this option "
+"was enabled, so this would delete past entries."
+msgstr ""
+
+#: views/builder.php:593
+msgid "Custom JavaScript"
+msgstr ""
+
+#: views/builder.php:596
+msgid ""
+"Add any JavaScript code in here, and it will be executed on page load. You "
+"don't have to use &lt;script&gt; tags. Make sure this is valid JavaScript!"
+msgstr ""
+
+#: views/builder.php:604
+msgid "Export Form File"
+msgstr ""
+
+#: views/builder.php:607
+msgid ""
+"You can import this form template on any other WordPress site with the "
+"plugin installed."
+msgstr ""
+
+#: views/builder.php:617
+msgid "Color Scheme"
+msgstr ""
+
+#: views/builder.php:618
+msgid "Background"
+msgstr ""
+
+#: views/builder.php:623
+msgid "General Styling"
+msgstr ""
+
+#: views/builder.php:630
+msgid "Remove Form Frame"
+msgstr ""
+
+#: views/builder.php:634
+msgid "Remove Field Borders"
+msgstr ""
+
+#: views/builder.php:639
+msgid "Hide"
+msgstr ""
+
+#: views/builder.php:644
+msgid "Hide Field Icons"
+msgstr ""
+
+#: views/builder.php:648
+msgid "Font Styling"
+msgstr ""
+
+#: views/builder.php:655
+msgid "Default Font"
+msgstr ""
+
+#: views/builder.php:656
+msgid "General Fonts"
+msgstr ""
+
+#: views/builder.php:663
+msgid "Google Fonts"
+msgstr ""
+
+#: views/builder.php:679 views/builder.php:680
+msgid "Font Size"
+msgstr ""
+
+#: views/builder.php:685
+msgid "Field Styling"
+msgstr ""
+
+#: views/builder.php:691
+msgid "Field Layout"
+msgstr ""
+
+#: views/builder.php:718
+msgid "Field Alignment"
+msgstr ""
+
+#: views/builder.php:742
+msgid "Your Logo"
+msgstr ""
+
+#: views/builder.php:748
+msgid "Image URL"
+msgstr ""
+
+#: views/builder.php:752
+msgid "Custom CSS"
+msgstr ""
+
+#: views/builder.php:760
+msgid "Guide to using Custom CSS"
+msgstr ""
+
+#: views/builder.php:766
+msgid "Choose A Color Scheme"
+msgstr ""
+
+#: views/builder.php:816
+msgid "Or Build A Custom One"
+msgstr ""
+
+#: views/builder.php:821
+msgid "Base Color"
+msgstr ""
+
+#: views/builder.php:827
+msgid "Button Font Color"
+msgstr ""
+
+#: views/builder.php:832
+msgid "Pagination Button Color"
+msgstr ""
+
+#: views/builder.php:838
+msgid "Field Background Color"
+msgstr ""
+
+#: views/builder.php:844
+msgid "General Font Color"
+msgstr ""
+
+#: views/builder.php:850
+msgid "Field Font Color"
+msgstr ""
+
+#: views/builder.php:858
+msgid "Choose A Form Background"
+msgstr ""
+
+#: views/builder.php:862
+msgid "Transparent / None"
+msgstr ""
+
+#: views/builder.php:866
+msgid "White"
+msgstr ""
+
+#: views/builder.php:870
+msgid "Preset Image"
+msgstr ""
+
+#: views/builder.php:885
+msgid "Preset Color"
+msgstr ""
+
+#: views/builder.php:898
+msgid "Custom Image"
+msgstr ""
+
+#: views/builder.php:914
+msgid "Settings"
+msgstr ""
+
+#: views/builder.php:918
+msgid "Styling"
+msgstr ""
+
+#: views/builder.php:922
+msgid "Addons"
+msgstr ""
+
+#: views/builder.php:926
+msgid "Logic"
+msgstr ""
+
+#: views/builder.php:932
+msgid "Save"
+msgstr ""
+
+#: views/builder.php:933
+msgid "Saving"
+msgstr ""
+
+#: views/builder.php:939
+msgid "Preview"
+msgstr ""
+
+#: views/builder.php:943
+msgid "Help"
+msgstr ""
+
+#: views/builder.php:964
+msgid "(No Fields)"
+msgstr ""
+
+#: views/builder.php:965
+msgid "Width"
+msgstr ""
+
+#: views/builder.php:1098
+msgid "Delete Page"
+msgstr ""
+
+#: views/builder.php:1133
+msgid "Form Options"
+msgstr ""
+
+#: views/builder.php:1143
+msgid "Select Icon"
+msgstr ""
+
+#. Name of the plugin
+msgid "FormCraft"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Premium WordPress form and survey builder. Make amazing forms, incredibly "
+"fast."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://formcraft-wp.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "nCrafts"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://ncrafts.net"
+msgstr ""

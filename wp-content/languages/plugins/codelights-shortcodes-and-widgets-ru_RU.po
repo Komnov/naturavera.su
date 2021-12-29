@@ -1,0 +1,762 @@
+# Translation of Plugins - SiteOrigin Widgets by CodeLights - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - SiteOrigin Widgets by CodeLights - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-10-19 11:23:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - SiteOrigin Widgets by CodeLights - Stable (latest release)\n"
+
+#. Author of the plugin/theme
+msgid "CodeLights"
+msgstr "CodeLights"
+
+#. Description of the plugin/theme
+msgid "Flexible high-end shortcodes and widgets. Responsive, modern, SEO-optimized and easy-to-use. Also can work without SiteOrigin."
+msgstr "Гибкие и качественные шорткоды и виджеты. Отзывчивые, современные, оптимизированные для поисковиков и простые в использовании. Можно использовать и без SiteOrigin."
+
+#. #-#-#-#-#  tmp-codelights-shortcodes-and-widgets.pot (SiteOrigin Widgets by
+#. CodeLights 1.1.4)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-codelights-shortcodes-and-widgets.pot (SiteOrigin Widgets by
+#. CodeLights 1.1.4)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://codelights.com/"
+msgstr "http://codelights.com/"
+
+#. Plugin Name of the plugin/theme
+msgid "SiteOrigin Widgets by CodeLights"
+msgstr "Виджеты для SiteOrigin от CodeLights"
+
+#: templates/elist.php:11
+msgid "Insert shortcode"
+msgstr "Вставить шорткод"
+
+#: templates/eform/link.php:24
+msgid "Insert link"
+msgstr "Вставить ссылку"
+
+#: templates/eform/images.php:25
+msgid "Add image"
+msgstr "Добавить изображение"
+
+#: templates/eform/images.php:25
+msgid "Add images"
+msgstr "Добавить изображения"
+
+#: templates/eform/eform.php:39
+msgid "General"
+msgstr "Основные"
+
+#: templates/eform/checkboxes.php:12
+msgid "Yes"
+msgstr "Да"
+
+#: templates/ebuilder.php:21
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: templates/ebuilder.php:20
+msgid "Close"
+msgstr "Закрыть"
+
+#: functions/helpers.php:315
+msgid "not cropped"
+msgstr "не обрезано"
+
+#: functions/helpers.php:315
+msgid "cropped"
+msgstr "обрезано"
+
+#: functions/helpers.php:312 functions/helpers.php:314
+msgid "Any"
+msgstr "Любой"
+
+#: functions/helpers.php:305
+msgid "Full Size"
+msgstr "Полный размер"
+
+#: functions/helpers.php:304
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: functions/class-cl-widget.php:24
+msgid "Widget Title"
+msgstr "Заголовок виджета"
+
+#: config/elements.php:1000
+msgid "Make Quote Text italic"
+msgstr "Сделать текст цитаты курсивным"
+
+#: config/elements.php:989
+msgid "Author Text Size"
+msgstr "Автор: размер текста"
+
+#: config/elements.php:981
+msgid "Quote Text Size"
+msgstr "Цитата: размер текста"
+
+#: config/elements.php:964
+msgid "Modern"
+msgstr "Современный"
+
+#: config/elements.php:963
+msgid "Framed"
+msgstr "Обрамлённый"
+
+#: config/elements.php:962
+msgid "Speech Balloon"
+msgstr "Пузырёк"
+
+#: config/elements.php:961
+msgid "Centered"
+msgstr "Центрированный"
+
+#: config/elements.php:960
+msgid "Clean"
+msgstr "Простой"
+
+#: config/elements.php:957
+msgid "Quote Style"
+msgstr "Стиль цитаты"
+
+#: config/elements.php:951
+msgid "Video URL to Embed"
+msgstr "URL видео для встраивания"
+
+#: config/elements.php:946
+msgid "Scanned Document"
+msgstr "Отсканированный документ"
+
+#: config/elements.php:942
+msgid "With Video"
+msgstr "С видео"
+
+#: config/elements.php:941
+msgid "With Scanned Document"
+msgstr "Со сканированным документом"
+
+#: config/elements.php:940
+msgid "Quote Text Only"
+msgstr "Только текст цитаты"
+
+#: config/elements.php:937
+msgid "Review Type"
+msgstr "Вид отзыва"
+
+#: config/elements.php:932
+msgid "Author Link"
+msgstr "Ссылка на автора"
+
+#: config/elements.php:927
+msgid "Author Photo"
+msgstr "Фото автора"
+
+#: config/elements.php:921
+msgid "Author Description"
+msgstr "Описание автора"
+
+#: config/elements.php:915
+msgid "Author Name"
+msgstr "Имя автора"
+
+#: config/elements.php:910
+msgid "Quote Text"
+msgstr "Текст цитаты"
+
+#: config/elements.php:901
+msgid "Client's review about a product or service"
+msgstr "Отзыв потребителя о продукте или услуге"
+
+#: config/elements.php:900
+msgid "Testimonial"
+msgstr "Отзыв"
+
+#: config/elements.php:885
+msgid "Content Text Color"
+msgstr "Цвет текста содержимого"
+
+#: config/elements.php:878
+msgid "Content Background Color"
+msgstr "Цвет фона содержимого"
+
+#: config/elements.php:871
+msgid "Header Text Color"
+msgstr "Цвет текста заголовка"
+
+#: config/elements.php:864
+msgid "Header Background Color"
+msgstr "Цвет фона заголовка"
+
+#: config/elements.php:857
+msgid "Overlay Background Color"
+msgstr "Цвет фона наложения"
+
+#: config/elements.php:845
+msgid "3D Flip (Vertical)"
+msgstr "Трёхмерный переворот (вертикально)"
+
+#: config/elements.php:844
+msgid "3D Flip (Horizontal)"
+msgstr "Трёхмерный переворот (горизонтально)"
+
+#: config/elements.php:843
+msgid "Slide from Bottom"
+msgstr "Выезд снизу"
+
+#: config/elements.php:842
+msgid "Slide from Top"
+msgstr "Выезд сверху"
+
+#: config/elements.php:841
+msgid "Scale Down"
+msgstr "Изменение размера от огромного к обычному"
+
+#: config/elements.php:840
+msgid "Scale Up"
+msgstr "Увеличить масштаб"
+
+#: config/elements.php:839
+msgid "Fade In"
+msgstr "Появление из прозначного"
+
+#: config/elements.php:835
+msgid "Appearance Animation"
+msgstr "Движение появления"
+
+#: config/elements.php:829
+msgid "Remove white space around popup content"
+msgstr "Убрать поле вокруг содержимого всплывшего окна"
+
+#: config/elements.php:822
+msgid "Fullscreen"
+msgstr "На полный экран"
+
+#: config/elements.php:821
+msgid "Huge"
+msgstr "Огромное"
+
+#: config/elements.php:820 functions/helpers.php:302
+msgid "Large"
+msgstr "Большое"
+
+#: config/elements.php:819 functions/helpers.php:303
+msgid "Medium"
+msgstr "Среднее"
+
+#: config/elements.php:818
+msgid "Small"
+msgstr "Маленькое"
+
+#: config/elements.php:815
+msgid "Popup Size"
+msgstr "Размер всплывающего окна"
+
+#: config/elements.php:804
+msgid "Popup Show Delay"
+msgstr "Задержка отображения всплывающего окна"
+
+#: config/elements.php:792
+msgid "Button / Image / Text Alignment"
+msgstr "Кнопка / Изображение / Выравнивание текста"
+
+#: config/elements.php:777
+msgid "Text Size"
+msgstr "Размер текста"
+
+#: config/elements.php:740
+msgid "Button / Text Label"
+msgstr "Кнопка / Текст надписи"
+
+#: config/elements.php:737 config/elements.php:744 config/elements.php:751
+#: config/elements.php:758 config/elements.php:765 config/elements.php:774
+#: config/elements.php:782 config/elements.php:789 config/elements.php:801
+#: config/elements.php:809
+msgid "Trigger"
+msgstr "Событие"
+
+#: config/elements.php:734
+msgid "Page Load"
+msgstr "Загрузка страницы"
+
+#: config/elements.php:733
+msgid "Image Click"
+msgstr "Нажатие на изображение"
+
+#: config/elements.php:732
+msgid "Text Click"
+msgstr "Нажатие на текст"
+
+#: config/elements.php:731
+msgid "Button Click"
+msgstr "Нажатие на кнопку"
+
+#: config/elements.php:728
+msgid "Show Popup On"
+msgstr "Показывать всплывающее окно по событию"
+
+#: config/elements.php:720
+msgid "Popup Content"
+msgstr "Содержимое всплывающего окна"
+
+#: config/elements.php:715
+msgid "Popup Title"
+msgstr "Заголовок всплывающего окна"
+
+#: config/elements.php:706
+msgid "Dialog box displayed above the page content"
+msgstr "Всплывающее окно поверх содержимого страницы"
+
+#: config/elements.php:705
+msgid "Modal Popup"
+msgstr "Всплывающее окно"
+
+#: config/elements.php:690 config/elements.php:805
+msgid "In seconds"
+msgstr "В секундах"
+
+#: config/elements.php:689
+msgid "Animation Delay"
+msgstr "Задержка движения"
+
+#: config/elements.php:664
+msgid "Tag Name"
+msgstr "Имя элемента"
+
+#: config/elements.php:646
+msgid "Dynamic Text Color"
+msgstr "Цвет меняющегося текста"
+
+#: config/elements.php:640
+msgid "Basic Text Color"
+msgstr "Цвет обычного текста"
+
+#: config/elements.php:632
+msgid "Font Size for Mobiles"
+msgstr "Размер шрифта для малых экранов"
+
+#: config/elements.php:625
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: config/elements.php:617
+msgid "Zoom in character by character"
+msgstr "Увеличение каждого знака"
+
+#: config/elements.php:616
+msgid "Zoom in the whole part"
+msgstr "Увеличение целых частей"
+
+#: config/elements.php:615
+msgid "Flip character by character"
+msgstr "Поворот каждого знака"
+
+#: config/elements.php:614
+msgid "Flip the whole part"
+msgstr "Поворот целых частей"
+
+#: config/elements.php:613
+msgid "Fade in the whole part"
+msgstr "Появление целых частей"
+
+#: config/elements.php:605
+msgid "Bold Dynamic Text"
+msgstr "Сделать изменяющийся текст полужирным"
+
+#: config/elements.php:597
+msgid "Each state from a new line"
+msgstr "Каждое состояние с новой строки"
+
+#: config/elements.php:596
+msgid "Text States"
+msgstr "Текст состояний"
+
+#: config/elements.php:587
+msgid "Text with some dynamicatlly changing part"
+msgstr "Текст с некоторыми изменёнными частями"
+
+#: config/elements.php:586
+msgid "Interactive Text"
+msgstr "Интерактивный текст"
+
+#: config/elements.php:569
+msgid "Used for SEO purposes"
+msgstr "Для целей поисковой оптимизации"
+
+#: config/elements.php:568
+msgid "Title Tag Name"
+msgstr "Имя элемента заголовка"
+
+#: config/elements.php:560
+msgid "Description Size for Mobiles"
+msgstr "Размер описания для малых экранов"
+
+#: config/elements.php:553 config/elements.php:561 config/elements.php:633
+msgid "This value will be applied when screen width is less than 600px"
+msgstr "Значение будет применено на экранах шириной менее 600 точек"
+
+#: config/elements.php:552
+msgid "Title Font Size for Mobiles"
+msgstr "Размер заголовка для малых экранов"
+
+#: config/elements.php:544
+msgid "Description Font Size"
+msgstr "Размер текста описания"
+
+#: config/elements.php:541 config/elements.php:549 config/elements.php:557
+#: config/elements.php:565 config/elements.php:581
+msgid "Typography"
+msgstr "Шрифты"
+
+#: config/elements.php:503 config/elements.php:656 config/elements.php:796
+msgid "Center"
+msgstr "Центр"
+
+#: config/elements.php:499 config/elements.php:652
+msgid "Text Alignment"
+msgstr "Выравнивание текста"
+
+#: config/elements.php:490 config/elements.php:491 config/elements.php:492
+msgid "Portrait"
+msgstr "Портрет"
+
+#: config/elements.php:489
+msgid "Square"
+msgstr "Квадрат"
+
+#: config/elements.php:486 config/elements.php:487 config/elements.php:488
+msgid "Landscape"
+msgstr "Пейзаж"
+
+#: config/elements.php:483
+msgid "Aspect Ratio"
+msgstr "Соотношение сторон"
+
+#: config/elements.php:473 config/elements.php:480 config/elements.php:496
+#: config/elements.php:508 config/elements.php:516 config/elements.php:524
+#: config/elements.php:530 config/elements.php:824 config/elements.php:832
+#: config/elements.php:847 config/elements.php:854 config/elements.php:861
+#: config/elements.php:868 config/elements.php:875 config/elements.php:882
+#: config/elements.php:889 config/elements.php:895 config/elements.php:966
+#: config/elements.php:971 config/elements.php:977 config/elements.php:986
+#: config/elements.php:994 config/elements.php:1003 config/elements.php:1009
+msgid "Style"
+msgstr "Стиль"
+
+#: config/elements.php:413
+msgid "Banner Image"
+msgstr "Изображение баннера"
+
+#: config/elements.php:404
+msgid "Hoverable image with additional data"
+msgstr "Изображение со сведениями и эффектом наведения указателя"
+
+#: config/elements.php:403
+msgid "Interactive Banner"
+msgstr "Интерактивный баннер"
+
+#: config/elements.php:387 config/elements.php:519
+msgid "Padding"
+msgstr "Отступ"
+
+#: config/elements.php:381
+msgid "Border Color"
+msgstr "Цвет границы"
+
+#: config/elements.php:374
+msgid "Border Width"
+msgstr "Ширина границы"
+
+#: config/elements.php:367 config/elements.php:850
+msgid "Border Radius"
+msgstr "Скругление границы"
+
+#: config/elements.php:361
+msgid "Center-Align Content Vertically"
+msgstr "Зрительно отцентровать вертикально по центру"
+
+#: config/elements.php:351
+msgid "Height"
+msgstr "Высота"
+
+#: config/elements.php:343 config/elements.php:511
+msgid "Width"
+msgstr "Ширина"
+
+#: config/elements.php:309 config/elements.php:310 config/elements.php:311
+msgid "Button (if exists)"
+msgstr "Кнопка (если есть)"
+
+#: config/elements.php:291 config/elements.php:298 config/elements.php:303
+#: config/elements.php:313 config/elements.php:318 config/elements.php:323
+#: config/elements.php:329 config/elements.php:337
+msgid "Back Side"
+msgstr "Задняя сторона"
+
+#: config/elements.php:276 config/elements.php:332 config/elements.php:418
+#: config/elements.php:768
+msgid "Image Size"
+msgstr "Размер изображения"
+
+#: config/elements.php:270 config/elements.php:326
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: config/elements.php:265 config/elements.php:321 config/elements.php:476
+#: config/elements.php:785 config/elements.php:975
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: config/elements.php:260 config/elements.php:316 config/elements.php:469
+#: config/elements.php:969
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: config/elements.php:253 config/elements.php:254 config/elements.php:255
+msgid "Icon"
+msgstr "Значок"
+
+#: config/elements.php:250 config/elements.php:306
+msgid "Elements Order"
+msgstr "Порядок элементов"
+
+#: config/elements.php:245 config/elements.php:253 config/elements.php:254
+#: config/elements.php:255 config/elements.php:301 config/elements.php:309
+#: config/elements.php:310 config/elements.php:311 config/elements.php:431
+msgid "Description"
+msgstr "Описание"
+
+#: config/elements.php:230 config/elements.php:253 config/elements.php:254
+#: config/elements.php:255 config/elements.php:287 config/elements.php:309
+#: config/elements.php:310 config/elements.php:311 config/elements.php:425
+msgid "Title"
+msgstr "Заголовок"
+
+#: config/elements.php:223 config/elements.php:344 config/elements.php:388
+#: config/elements.php:512 config/elements.php:520
+msgid "In pixels or percents"
+msgstr "В пикселях или процентах"
+
+#: config/elements.php:222
+msgid "Image Width"
+msgstr "Ширина изображения"
+
+#: config/elements.php:216 config/elements.php:761
+msgid "Image"
+msgstr "Изображение"
+
+#: config/elements.php:209
+msgid "Icon Background Color"
+msgstr "Цвет фона значка"
+
+#: config/elements.php:202
+msgid "Icon Color"
+msgstr "Цвет значка"
+
+#: config/elements.php:195
+msgid "Square Background"
+msgstr "Квадратный фон"
+
+#: config/elements.php:194
+msgid "Circle Background"
+msgstr "Круглый фон"
+
+#: config/elements.php:193
+msgid "Simple"
+msgstr "Простой"
+
+#: config/elements.php:190
+msgid "Icon Style"
+msgstr "Оформление значка"
+
+#: config/elements.php:182
+msgid "Icon Size"
+msgstr "Размер значка"
+
+#: config/elements.php:176
+msgid "<a href=\"%s\" target=\"_blank\">FontAwesome</a> icon"
+msgstr "Значок <a href=\"%s\" target=\"_blank\">FontAwesome</a>"
+
+#: config/elements.php:175
+msgid "Icon Name"
+msgstr "Имя значка"
+
+#: config/elements.php:172 config/elements.php:178 config/elements.php:186
+#: config/elements.php:198 config/elements.php:205 config/elements.php:212
+#: config/elements.php:218 config/elements.php:226 config/elements.php:235
+#: config/elements.php:242 config/elements.php:247 config/elements.php:257
+#: config/elements.php:262 config/elements.php:267 config/elements.php:273
+#: config/elements.php:281
+msgid "Front Side"
+msgstr "Передняя сторона"
+
+#: config/elements.php:170
+msgid "Custom Image"
+msgstr "Произвольное изображение"
+
+#: config/elements.php:169
+msgid "FontAwesome Icon"
+msgstr "Значок FontAwesome"
+
+#: config/elements.php:168
+msgid "None"
+msgstr "Нет"
+
+#: config/elements.php:165
+msgid "Icon to Display"
+msgstr "Значок для отображения"
+
+#: config/elements.php:150 config/elements.php:454
+msgid "Animation Easing"
+msgstr "Сглаживание движения"
+
+#: config/elements.php:137
+msgid "Up-Left"
+msgstr "Влево Вверх"
+
+#: config/elements.php:136 config/elements.php:502 config/elements.php:655
+#: config/elements.php:795
+msgid "Left"
+msgstr "Влево"
+
+#: config/elements.php:135
+msgid "Down-Left"
+msgstr "Влево Вниз"
+
+#: config/elements.php:134
+msgid "Down"
+msgstr "Вниз"
+
+#: config/elements.php:133
+msgid "Down-Right"
+msgstr "Вправо Вниз"
+
+#: config/elements.php:132 config/elements.php:504 config/elements.php:657
+#: config/elements.php:797
+msgid "Right"
+msgstr "Вправо"
+
+#: config/elements.php:131
+msgid "Up-Right"
+msgstr "Вправо-Вверх"
+
+#: config/elements.php:130
+msgid "Up"
+msgstr "Вверх"
+
+#: config/elements.php:127
+msgid "Animation Direction"
+msgstr "Направление движения"
+
+#: config/elements.php:116 config/elements.php:439 config/elements.php:610
+msgid "Animation Type"
+msgstr "Вид движения"
+
+#: config/elements.php:110 config/elements.php:754
+msgid "Button Text Color"
+msgstr "Цвет текста кнопки"
+
+#: config/elements.php:104 config/elements.php:747
+msgid "Button Background Color"
+msgstr "Цвет фона кнопки"
+
+#: config/elements.php:98
+msgid "Button Label"
+msgstr "Надпись на кнопке"
+
+#: config/elements.php:93
+msgid "Link URL"
+msgstr "URL ссылки"
+
+#: config/elements.php:88
+msgid "Add link as a separate button"
+msgstr "Добавить ссылку как отдельную кнопку"
+
+#: config/elements.php:87
+msgid "Add link to the whole FlipBox"
+msgstr "Сделать ссылкой весь Перевёртыш"
+
+#: config/elements.php:86
+msgid "No Link"
+msgstr "Без ссылки"
+
+#: config/elements.php:83 config/elements.php:435
+msgid "Link"
+msgstr "Ссылка"
+
+#: config/elements.php:74
+msgid "Two-sided content element, flipping on hover"
+msgstr "Двухсторонний элемент содержимого, переворачивающийся при наведении"
+
+#: config/elements.php:73
+msgid "FlipBox"
+msgstr "Перевёртыш"
+
+#: config/elements.php:65 config/elements.php:395 config/elements.php:527
+#: config/elements.php:697 config/elements.php:892 config/elements.php:1006
+msgid "Extra class name"
+msgstr "Дополнительный CSS-класс"
+
+#: config/elements.php:59
+msgid "Title Color"
+msgstr "Цвет заголовка"
+
+#: config/elements.php:53
+msgid "Value Color"
+msgstr "Цвет значения"
+
+#: config/elements.php:46 config/elements.php:238 config/elements.php:294
+#: config/elements.php:536
+msgid "Title Font Size"
+msgstr "Размер шрифта заголовка"
+
+#: config/elements.php:39
+msgid "Value Font Size"
+msgstr "Размер шрифта значения"
+
+#: config/elements.php:36 config/elements.php:43 config/elements.php:50
+#: config/elements.php:56 config/elements.php:62 config/elements.php:68
+#: config/elements.php:348 config/elements.php:356 config/elements.php:364
+#: config/elements.php:371 config/elements.php:378 config/elements.php:384
+#: config/elements.php:392 config/elements.php:398 config/elements.php:629
+#: config/elements.php:637 config/elements.php:643 config/elements.php:649
+#: config/elements.php:661 config/elements.php:678 config/elements.php:686
+#: config/elements.php:694 config/elements.php:700
+msgid "Custom"
+msgstr "Произвольно"
+
+#: config/elements.php:33 config/elements.php:144 config/elements.php:682
+msgid "In milliseconds"
+msgstr "В миллисекундах"
+
+#: config/elements.php:32 config/elements.php:143 config/elements.php:681
+msgid "Animation Duration"
+msgstr "Длительность движения"
+
+#: config/elements.php:27
+msgid "Counter Title"
+msgstr "Заголовок счётчика"
+
+#: config/elements.php:22
+msgid "Final value the way it should look like, when the animation ends."
+msgstr "Окончательное значение в том виде, в котором оно должно быть, когда движение завершено."
+
+#: config/elements.php:21
+msgid "Final Counter value"
+msgstr "Окончательное значение счётчика"
+
+#: config/elements.php:15
+msgid "Initial Counter value"
+msgstr "Исходное значение счётчика"
+
+#: config/elements.php:9
+msgid "Animated text with numbers"
+msgstr "Оживлённый текст с цифрами"
+
+#: config/elements.php:8
+msgid "Stats Counter"
+msgstr "Счётчик статистики"

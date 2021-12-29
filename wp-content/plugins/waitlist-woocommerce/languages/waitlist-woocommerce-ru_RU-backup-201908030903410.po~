@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: waitlist-woocommerce\n"
+"POT-Creation-Date: 2017-11-09 04:25+0530\n"
+"PO-Revision-Date: 2019-08-03 08:56+0000\n"
+"Last-Translator: Agio Textile <sale@agiotextile.com>\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.2.0; wp-4.9.10"
+
+#: admin/xoo-wl-settings-functions.php:341
+msgid "Join Waitlist"
+msgstr "Узнать о поступлении"
+
+#: includes/xoo-wl-core.php:21
+msgid "Invalid Quantity."
+msgstr ""
+
+#: includes/xoo-wl-core.php:29 includes/xoo-wl-public.php:62
+msgid "Email address cannot be empty."
+msgstr ""
+
+#: includes/xoo-wl-core.php:34 includes/xoo-wl-public.php:63
+msgid "Please enter valid email address."
+msgstr ""
+
+#: includes/xoo-wl-core.php:52
+msgid "Product is in stock. You can add to cart."
+msgstr ""
+
+#: includes/xoo-wl-core.php:63
+msgid "You are already in waitlist."
+msgstr ""
+
+#: includes/xoo-wl-core.php:86
+msgid ""
+"You are now in waitlist. We will inform you as soon as we are back in stock."
+msgstr ""
+"Мы сообщим вам, как только товар появится в наличии. Спасибо за интерес!"
+
+#: includes/xoo-wl-core.php:160
+#, php-format
+msgid "%s is back in stock"
+msgstr ""
+
+#: includes/xoo-wl-public.php:64
+msgid "Quantity field cannot be empty"
+msgstr "Поле не может быть пустым"
+
+#: templates/xoo-wl-email-content.php:113
+msgid "Your Product is Now In Stock."
+msgstr ""
+
+#: templates/xoo-wl-email-content.php:132
+#, php-format
+msgid ""
+"You requested to be notified when %s was back in stock and available for "
+"order."
+msgstr ""
+
+#: templates/xoo-wl-email-content.php:133
+msgid ""
+"We are extremely pleased to announce that the product is now available for "
+"purchase. Please act fast, as the item may only be available in limited "
+"quantities."
+msgstr ""
+
+#: templates/xoo-wl-email-content.php:137
+msgid "BUY NOW"
+msgstr ""
+
+#: templates/xoo-wl-form.php:25
+msgid "You need to Login for joining waitlist."
+msgstr "Войдите или зарегистрируйтесь, чтобы узнать о поступлении"
+
+#: templates/xoo-wl-form.php:36
+msgid ""
+"We will inform you when the product arrives in stock. Just leave your valid "
+"email address below."
+msgstr ""
+"Мы сообщим вам, когда товар поступит в продажу. Просто оставьте свой "
+"действующий адрес электронной почты"
+
+#: templates/xoo-wl-form.php:40
+msgid "Email"
+msgstr ""
+
+#: templates/xoo-wl-form.php:45
+msgid "Quantity"
+msgstr "Выберите количество товара"
+
+#: templates/xoo-wl-form.php:50
+msgid "We won't share your address with anybody else."
+msgstr "Мы не будем делиться вашим адресом с кем-либо еще."
+
+#: templates/xoo-wl-form.php:51
+msgid "Email me when available"
+msgstr "Напишите мне, когда товар будет в наличии"

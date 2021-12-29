@@ -1,0 +1,464 @@
+# Translation of Plugins - Advanced Cron Manager &#8211; debug &amp; control - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Advanced Cron Manager &#8211; debug &amp; control - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-17 19:46:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Advanced Cron Manager &#8211; debug &amp; control - Stable (latest release)\n"
+
+#: inc/Cron/EventsLibrary.php:168
+msgid "Event is protected and cannot be paused"
+msgstr "Событие защищено и не может быть приостановлено"
+
+#: views/forms/event/add.php:18
+msgid "Should not contain any HTML tags including script nor style"
+msgstr "Не должно содержать никаких HTML-тегов, включая скрипты или стили"
+
+#: views/parts/events/tabs/logs.php:15
+msgid "Event rescheduling"
+msgstr "Изменение расписания задачи"
+
+#: inc/Cron/EventsActions.php:122
+msgid "This event doesn't seem to exist anymore"
+msgstr "Эта задача, кажется, больше не существует"
+
+#: views/parts/events/tabs/arguments.php:17
+msgid "Object"
+msgstr "Объект"
+
+#: views/parts/events/tablenav.php:27
+msgid "Apply"
+msgstr "Применить"
+
+#. Author URI of the plugin
+msgid "https://bracketspace.com"
+msgstr "https://bracketspace.com"
+
+#. Author of the plugin
+msgid "BracketSpace"
+msgstr "BracketSpace"
+
+#: views/parts/events/tabs/arguments.php:13 views/parts/events/row.php:69
+msgid "Array"
+msgstr "Массив"
+
+#: views/misc/notification-promo.php:26
+msgid "Download for free"
+msgstr "Скачать бесплатно"
+
+#: views/misc/notification-promo.php:22
+msgid "Custom triggers, white label mode, powerful and intuitive API. Ready to be shipped as a part of your plugin or theme."
+msgstr "Произвольные триггеры, режим White Label, мощный и интуитивно понятный API. Готовые сниппеты как часть вашего плагина или темы."
+
+#: views/misc/notification-promo.php:20
+msgid "Notification - notification system for developers"
+msgstr "Уведомления - система уведомлений для разработчиков"
+
+#: views/server/settings.php:43
+msgid "Save settings"
+msgstr "Сохранить настройки"
+
+#: views/server/settings.php:40
+msgid "The reasonable time interval is 5-15 minutes. That is */5 * * * * or */15 * * * * for Cron interval setting"
+msgstr "Оптимальный интервал времени составляет 5-15 минут. Это */5 * * * * или */15 * * * * для установки интервала планировщика (cron)"
+
+#: views/server/settings.php:37
+msgid "The command you want to use is:"
+msgstr "Команда, которую вы хотите использовать:"
+
+#: views/server/settings.php:35
+msgid "Check <a href=\"https://www.google.com/search?q=how+to+setup+cron+job\" target=\"_blank\">how to setup the Cron job</a> or read more about <a href=\"https://developer.wordpress.org/plugins/cron/hooking-into-the-system-task-scheduler/\" target=\"_blank\">Hooking WP-Cron Into the System Task Scheduler</a>"
+msgstr "Узнайте <a href=\"https://www.google.com/search?q=how+to+setup+cron+job\" target=\"_blank\">как настроить планировщик задач</a> или прочтите больше о <a href=\"https://developer.wordpress.org/plugins/cron/hooking-into-the-system-task-scheduler/\" target=\"_blank\">Как подключить WP-Cron в планировщик системных задач</a>"
+
+#: views/server/settings.php:31
+msgid "When enabled WordPress will not spawn Cron anymore. You have to set the Cron on your server"
+msgstr "Когда включено, планировщик WordPress больше работать не будет. Вы должны настроить планировщик на вашем сервере"
+
+#: views/server/settings.php:30
+msgid "Enable Server Scheduler"
+msgstr "Включить планировщик на сервере"
+
+#: views/server/settings.php:22
+msgid "Server Scheduler"
+msgstr "Планировщик на сервере"
+
+#: inc/Server/Settings.php:97
+msgid "Settings has been saved"
+msgstr "Настройки сохранены"
+
+#: inc/Assets.php:84
+msgid "Saving..."
+msgstr "Сохранение..."
+
+#. Description of the plugin
+msgid "View, pause, remove, edit and add WP Cron events."
+msgstr "Просмотр, приостановка, редактирование и добавление задач WP Cron."
+
+#: views/parts/searchbox.php:11
+msgid "Search events..."
+msgstr "Поиск задач..."
+
+#: views/parts/schedules/section.php:14
+msgid "Schedules"
+msgstr "Расписания"
+
+#: views/parts/schedules/row.php:28
+msgid "Trash"
+msgstr "Корзина"
+
+#: views/parts/schedules/row.php:27
+msgid "This schedule is protected and you cannot remove it"
+msgstr "Этот расписание заблокировано, и вы не можете удалить его"
+
+#: views/parts/schedules/row.php:25 views/parts/schedules/row.php:31
+#: views/parts/schedules/row.php:32
+msgid "Edit"
+msgstr "Изменить"
+
+#: views/parts/schedules/row.php:24
+msgid "This schedule is protected and you cannot edit it"
+msgstr "Этот расписание заблокировано, и вы не можете изменить его"
+
+#. Translators: numer of seconds.
+#: views/parts/schedules/row.php:18
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d секунду"
+msgstr[1] "%d секунды"
+msgstr[2] "%d секунд"
+
+#: views/parts/schedules/header-row.php:14
+msgid "Actions"
+msgstr "Действия"
+
+#: views/parts/schedules/header-row.php:11
+msgid "Label"
+msgstr "Ярлык"
+
+#: views/parts/events/tabs/logs.php:20
+msgid "Get Advanced Cron Manager PRO now!"
+msgstr "Получить Advanced Cron Manager PRO сейчас!"
+
+#: views/parts/events/tabs/logs.php:18
+msgid "Debugging tool"
+msgstr "Инструмент отладки"
+
+#: views/parts/events/tabs/logs.php:17
+msgid "Performance stats"
+msgstr "Статистика производительности"
+
+#: views/parts/events/tabs/logs.php:16
+msgid "Error catcher"
+msgstr "Запись ошибок"
+
+#: views/parts/events/tabs/logs.php:14
+msgid "Logging executed tasks"
+msgstr "Регистрация выполненных задач"
+
+#: views/parts/events/tabs/logs.php:12
+msgid "These includes:"
+msgstr "Это включает в себя:"
+
+#: views/parts/events/tabs/logs.php:11
+msgid "Get insights from your Cron system with Advanced Cron Manager PRO!"
+msgstr "Получите больше информации о вашем планировщике с Advanced Cron Manager PRO!"
+
+#: views/parts/events/tabs/implementation.php:14
+msgid "You can paste this anywhere between <?php and ?> tags."
+msgstr "Вы можете вставить это в любом месте между тегами <?php и ?>."
+
+#: views/parts/events/tablenav.php:32
+msgid "All Schedules"
+msgstr "Все расписания"
+
+#: views/parts/events/tablenav.php:12
+msgid "Bulk Actions"
+msgstr "Массовые действия"
+
+#. Translators: human friendly diff time.
+#: views/parts/events/row.php:84
+msgid "In %s"
+msgstr "Через %s"
+
+#: views/parts/events/row.php:80
+msgid "In queue"
+msgstr "В очереди"
+
+#: views/parts/events/tablenav.php:25 views/parts/events/row.php:59
+#: views/parts/schedules/row.php:34 views/parts/schedules/row.php:35
+msgid "Remove"
+msgstr "Удалить"
+
+#: views/parts/events/row.php:57
+msgid "Protected"
+msgstr "Заблокировано"
+
+#: views/parts/events/row.php:50
+msgid "Pause"
+msgstr "Приостановить"
+
+#: views/parts/events/row.php:48
+msgid "Unpause"
+msgstr "Возобновить"
+
+#: views/parts/events/tablenav.php:13 views/parts/events/row.php:43
+msgid "Execute now"
+msgstr "Выполнить сейчас"
+
+#: views/parts/events/row.php:40
+msgid "Details"
+msgstr "Детали"
+
+#: views/parts/events/header-row.php:16
+msgid "Next execution"
+msgstr "Следующее исполнение"
+
+#: views/parts/events/header-row.php:13
+msgid "Event"
+msgstr "Задача"
+
+#: views/forms/schedule/add.php:40 views/forms/schedule/edit.php:44
+msgid "Total seconds:"
+msgstr "Всего секунд:"
+
+#: views/forms/schedule/add.php:35 views/forms/schedule/edit.php:39
+msgid "Seconds"
+msgstr "Секунды"
+
+#: views/forms/schedule/add.php:31 views/forms/schedule/edit.php:35
+msgid "Minutes"
+msgstr "Минуты"
+
+#: views/forms/schedule/add.php:27 views/forms/schedule/edit.php:31
+msgid "Hours"
+msgstr "Часы"
+
+#: views/forms/schedule/add.php:23 views/forms/schedule/edit.php:27
+msgid "Days"
+msgstr "Дни"
+
+#: views/forms/schedule/add.php:20 views/forms/schedule/edit.php:24
+#: views/parts/schedules/header-row.php:13
+msgid "Interval"
+msgstr "Интервал"
+
+#: views/forms/schedule/add.php:17 views/forms/schedule/edit.php:20
+#: views/parts/schedules/header-row.php:12
+msgid "Slug"
+msgstr "Слаг (slug)"
+
+#: views/forms/schedule/add.php:14 views/forms/schedule/edit.php:17
+msgid "Display name"
+msgstr "Название"
+
+#: views/forms/event/add.php:41
+msgid "New inputs will be added automatically when you type"
+msgstr "Новые данные будут добавлены автоматически при вводе"
+
+#. Translators: schedule label.
+#: views/forms/event/add.php:32
+msgid "Don't repeat (%s)"
+msgstr "Не повторять (%s)"
+
+#: views/forms/event/add.php:27
+msgid "After first execution repeat:"
+msgstr "После первого исполнения повторите:"
+
+#: views/forms/event/add.php:22
+msgid "When past date will be provided or left empty, event will be executed in the next queue"
+msgstr "Когда будет указана прошедшая дата или оставлено пустым, задача будет выполнена в следующей очереди"
+
+#: views/forms/event/add.php:21
+msgid "First execution"
+msgstr "Первое исполнение"
+
+#: views/forms/event/add.php:17
+msgid "Hook"
+msgstr "Хук (hook)"
+
+#: views/elements/add-schedule-button.php:10
+msgid "Add new schedule"
+msgstr "Добавить новое расписание"
+
+#: views/elements/add-event-button.php:10
+msgid "Add new event"
+msgstr "Добавить новую задачу"
+
+#: inc/Assets.php:83
+msgid "Pausing..."
+msgstr "Приостановка..."
+
+#: inc/Assets.php:82
+msgid "Removing..."
+msgstr "Удаление..."
+
+#: inc/Assets.php:81 views/parts/events/tablenav.php:41
+msgid "events"
+msgstr "задач"
+
+#: inc/Assets.php:80
+msgid "Event has been executed with errors"
+msgstr "Задача выполнена с ошибками"
+
+#: inc/Misc.php:49 inc/ScreenRegisterer.php:48 views/wrapper.php:16
+msgid "Cron Manager"
+msgstr "Список задач планировщика (cron)"
+
+#: inc/FormProvider.php:130
+msgid "Add event"
+msgstr "Добавить задачу"
+
+#: inc/FormProvider.php:130
+msgid "New event"
+msgstr "Новая задача"
+
+#. Translators: schedule slug.
+#: inc/FormProvider.php:116
+msgid "Edit schedule"
+msgstr "Изменить расписание"
+
+#. Translators: schedule slug.
+#: inc/FormProvider.php:116
+msgid "Edit \"%s\" schedule"
+msgstr "Изменить расписание \"%s\""
+
+#: inc/FormProvider.php:97
+msgid "Add schedule"
+msgstr "Добавить расписание"
+
+#: inc/FormProvider.php:97
+msgid "New schedule"
+msgstr "Новое расписание"
+
+#. Translators: schedule slug.
+#: inc/Cron/SchedulesLibrary.php:204
+msgid "Schedule with slug \"%s\" cannot be removed because it doesn't exists"
+msgstr "Расписание со слагом \"%s\" не может быть удалено, так как не существует"
+
+#. Translators: schedule slug.
+#: inc/Cron/SchedulesLibrary.php:168
+msgid "Schedule \"%s\" is protected and you cannot edit it"
+msgstr "Расписание \"%s\" заблокировано, и вы не можете его редактировать"
+
+#. Translators: schedule slug.
+#: inc/Cron/SchedulesLibrary.php:163
+msgid "Schedule with slug \"%s\" doesn't exists"
+msgstr "Расписание со слагом \"%s\" не существует"
+
+#. Translators: schedule slug.
+#: inc/Cron/SchedulesLibrary.php:156
+msgid "Schedule with slug \"%s\" already exists"
+msgstr "Расписание со слагом \"%s\" уже существует"
+
+#: inc/Cron/SchedulesLibrary.php:151
+msgid "Interval cannot be shorter than 1 second"
+msgstr "Интервал не может быть короче 1 секунды"
+
+#: inc/Cron/SchedulesLibrary.php:147
+msgid "Please, provide a slug for your Schedule"
+msgstr "Пожалуйста, укажите слаг вашего расписания"
+
+#: inc/Cron/SchedulesLibrary.php:143
+msgid "Please, provide a name for your Schedule"
+msgstr "Пожалуйста, укажите название вашего расписания"
+
+#. Translators: schedule slug.
+#: inc/Cron/SchedulesActions.php:122
+msgid "Schedule \"%s\" has been removed"
+msgstr "Расписание \"%s\" удалено"
+
+#. Translators: schedule slug.
+#: inc/Cron/SchedulesActions.php:95
+msgid "Schedule \"%s\" has been edited"
+msgstr "Расписание \"%s\" изменено"
+
+#. Translators: schedule slug.
+#: inc/Cron/SchedulesActions.php:68
+msgid "Schedule \"%s\" has been added"
+msgstr "Расписание \"%s\" добавлено"
+
+#: inc/Cron/Schedules.php:106
+msgid "Single event"
+msgstr "Однократное выполнение"
+
+#: inc/Cron/EventsLibrary.php:202
+msgid "Event not found and cannot be unpaused"
+msgstr "Задача не найдена и не может быть приостановлена"
+
+#: inc/Cron/EventsLibrary.php:164
+msgid "Event not found and cannot be paused"
+msgstr "Задача не найдена и не может быть приостановлена"
+
+#: inc/Cron/EventsLibrary.php:133
+msgid "Event not found and cannot be unscheduled"
+msgstr "Задача не найдена и расписание не может быть изменено"
+
+#. Translators: schedule slug.
+#: inc/Cron/EventsLibrary.php:94
+msgid "Schedule \"%s\" cannot be found"
+msgstr "Расписание \"%s\" не может быть найдено"
+
+#: inc/Cron/EventsLibrary.php:87
+msgid "Please, provide a hook for your Event"
+msgstr "Пожалуйста, укажите хук для вашей задачи"
+
+#. Translators: event hook.
+#: inc/Cron/EventsActions.php:219
+msgid "Event \"%s\" has been unpaused"
+msgstr "Задача \"%s\" была возобновлена"
+
+#. Translators: event hook.
+#: inc/Cron/EventsActions.php:192
+msgid "Event \"%s\" has been paused"
+msgstr "Задача \"%s\" была приостановлена"
+
+#. Translators: event hook.
+#: inc/Cron/EventsActions.php:165
+msgid "Event \"%s\" has been removed"
+msgstr "Задача \"%s\" удалена"
+
+#. Translators: event hook.
+#: inc/Cron/EventsActions.php:158
+msgid "Event \"%s\" is protected and you cannot remove it"
+msgstr "Задача \"%s\" заблокирована, и вы не можете ее удалить"
+
+#. Translators: event hook.
+#: inc/Cron/EventsActions.php:137
+msgid "Event \"%s\" has been executed"
+msgstr "Задача \"%s\" выполнена"
+
+#. Translators: event hook name, # of args, schedule name.
+#: inc/Cron/EventsActions.php:100
+msgid "Event \"%1$s\" with %2$d argument has been scheduled (%3$s)"
+msgid_plural "Event \"%1$s\" with %2$d arguments has been scheduled (%3$s)"
+msgstr[0] "Событие «%1$s» с %2$d аргументом успешно запланировано (%3$s)"
+msgstr[1] "Событие «%1$s» с %2$d аргументами успешно запланировано (%3$s)"
+msgstr[2] "Событие «%1$s» с %2$d аргументами успешно запланировано (%3$s)"
+
+#: inc/AdminScreen.php:73
+msgid "Implementation"
+msgstr "Выполнение"
+
+#: inc/AdminScreen.php:72 views/forms/event/add.php:26
+#: views/parts/events/header-row.php:14
+msgid "Schedule"
+msgstr "Расписание"
+
+#: inc/AdminScreen.php:71 views/forms/event/add.php:40
+#: views/parts/events/header-row.php:15
+msgid "Arguments"
+msgstr "Аргументы"
+
+#: inc/AdminScreen.php:70
+msgid "Logs"
+msgstr "Логи"
+
+#. Plugin Name of the plugin
+#: advanced-cron-manager.php:22 inc/ScreenRegisterer.php:47
+msgid "Advanced Cron Manager"
+msgstr "Advanced Cron Manager"
