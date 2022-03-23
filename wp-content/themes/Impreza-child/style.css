@@ -30,3 +30,25 @@ button[type="submit"]:not(.w-btn), input[type="submit"] {
 .entry-summary button[type="submit"]:not(.w-btn), .entry-summary input[type="submit"] {
     padding: 0.6em 1.8em;
 }
+
+
+.hidden.opasity {
+    opacity: 0!important;
+}
+body.home.page-template-default #page-content .wpb_wrapper .tp-thumbs-inner-wrapper .tp-thumb-image {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: #fff;
+    background-position: center;
+}
+
+@media (min-width: 900px) {
+    body.home.page-template-default #page-header {
+        position: relative;
+    }
+    body.home.page-template-default #page-header.sticky {
+        position: fixed;
+    }
+
+}
+/*@media (min-width: 900px) */
