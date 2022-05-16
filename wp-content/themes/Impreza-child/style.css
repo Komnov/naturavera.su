@@ -41,6 +41,11 @@ body.home.page-template-default #page-content .wpb_wrapper .tp-thumbs-inner-wrap
     background-color: #fff;
     background-position: center;
 }
+.woocommerce-variation-add-to-cart,
+.w-cart.ush_cart_1.dropdown_height.empty {
+    display: none;
+    /*скрыл корзину в карточке и шапке*/
+}
 
 @media (min-width: 900px) {
     body.home.page-template-default #page-header {
