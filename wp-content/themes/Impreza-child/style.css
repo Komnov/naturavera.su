@@ -47,6 +47,28 @@ body.home.page-template-default #page-content .wpb_wrapper .tp-thumbs-inner-wrap
     /*скрыл корзину в карточке и шапке*/
 }
 
+header a[data-toggle="fc_modal"] span {
+    border: 1px solid #0b544d;
+    padding: 5px 30px;
+    cursor: pointer;
+}
+header a[data-toggle="fc_modal"] span:hover {
+    transition: 0.3s;
+    background-color: #0b544d;
+    color: #fff;
+}
+footer a[data-toggle="fc_modal"] span {
+    border: 1px solid #fff;
+    padding: 5px 30px;
+    cursor: pointer;
+    color: #fff;
+}
+footer a[data-toggle="fc_modal"] span:hover {
+    background-color: #fff;
+    color: #0b544d;
+    transition: 0.3s;
+}
+
 @media (min-width: 900px) {
     body.home.page-template-default #page-header {
         position: relative;
