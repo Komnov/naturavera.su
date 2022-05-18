@@ -20,13 +20,13 @@
 
 // ** Параметры MySQL: Эту информацию можно получить у вашего хостинг-провайдера ** //
 /** Имя базы данных для WordPress */
-define( 'DB_NAME', 'naturavera_nv' );
+define( 'DB_NAME', 'naturavera_sudev' );
 
 /** Имя пользователя MySQL */
-define( 'DB_USER', 'naturavera_nv' );
+define( 'DB_USER', 'naturavera_sudev' );
 
 /** Пароль к базе данных MySQL */
-define( 'DB_PASSWORD', 'KiAYjNoH' );
+define( 'DB_PASSWORD', 'KiAYjNoH*' );
 
 /** Имя сервера MySQL */
 define( 'DB_HOST', 'localhost' );
