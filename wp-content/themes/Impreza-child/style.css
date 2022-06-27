@@ -68,6 +68,27 @@ footer a[data-toggle="fc_modal"] span:hover {
     color: #0b544d;
     transition: 0.3s;
 }
+.yith-wcbm-badge__wrap {
+    background-color: transparent!important;
+}
+.products.columns-4>.product {
+    width: 24%;
+    box-shadow: 1px 2px 10px -5px #000;
+    margin: 0 1% 15px 0;
+}
+.products.columns-4>.product:hover {
+    transition: 0.3s;
+    transform: scale(1.03);
+}
+.woocommerce div.product ul.tabs.wc-tabs {
+    background-color: #cfcfcf;
+}
+.woocommerce div.product  .woocommerce-tabs .tabs li.active {
+    background-color: #e2a902;
+}
+.woocommerce div.product  .woocommerce-tabs .tabs li.active a {
+    color: #fff!important;
+}
 
 @media (min-width: 900px) {
     body.home.page-template-default #page-header {
@@ -76,6 +97,53 @@ footer a[data-toggle="fc_modal"] span:hover {
     body.home.page-template-default #page-header.sticky {
         position: fixed;
     }
-
+    
 }
 /*@media (min-width: 900px) */
+
+@media (max-width: 992px) {
+    .for_shop ul.products {
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 20px;
+    }
+    .woocommerce .products .product {
+    width: 49% !important;
+    margin: 0 1% 5px 0;
+    }
+    .page-template-default .wprt-container .l-section:first-child {
+        margin: 40px 0 0 0;
+    }
+    .index-category .index-category_row  {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .index-category .index-category_row .vc_column_container,
+    .index-category .index-category_row .vc_column-inner {
+        padding: 0 20px!important;
+    }
+    .index-category .index-category_row__last > .vc_col-sm-4:nth-child(1),
+    .index-category .index-category_row__last > .vc_col-sm-4:last-child {
+        display: none;
+    }   
+    .index-category .index-category_row__last > .vc_col-sm-4 {
+        padding: 0 0;
+    }
+    .index-category .index-category_row__last > .vc_col-sm-4 .vc_column-inner {
+        padding: 0 40px!important;
+    }
+    section.l-section.for_shop_description .l-section-h {
+        padding: 0 0;
+    }
+    .about-us-title .l-section-img {
+        background-size: cover!important;
+    }
+    .woocommerce-product-gallery ol {
+        width: 100%;
+        justify-content: center;
+    }
+    .l-header.pos_fixed {
+        box-shadow: -1px -1px 11px #0000008c;
+    }
+}
+/*@media (max-width: 992px)*/
