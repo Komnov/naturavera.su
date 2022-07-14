@@ -12,6 +12,7 @@ Author URI: http://us-themes.com/
 @import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
 
 
+
 button[type="submit"]:not(.w-btn), input[type="submit"] {
     padding: 0.6em 1.8em;
 }
@@ -88,6 +89,99 @@ footer a[data-toggle="fc_modal"] span:hover {
 }
 .woocommerce div.product  .woocommerce-tabs .tabs li.active a {
     color: #fff!important;
+}
+.mobile__catalog_book {
+    display: flex!important;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+.mobile__catalog_book .sections .section {
+    display: block;
+    position: relative;
+}
+.mobile__catalog_book .sections .section img {
+    display: block;
+    object-fit: contain;
+    min-width: 100%;
+}
+.mobile__catalog_book .content__book {
+    display: flex!important;
+    flex-direction: column;
+    height: initial!important;
+}
+.mobile__catalog_book .content__book .content__book_links {
+    display: flex;
+    flex-direction: column;
+    padding: 8% 7%;
+    counter-reset: section 2;
+}
+.mobile__catalog_book .content__book .content__book_links * {
+    color: #000;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+}
+.mobile__catalog_book .content__book_links span:not(.title) {
+    padding: 0 0 10px 0;
+}
+.mobile__catalog_book .content__book_links span.title {
+    font-weight: 600;
+    margin: 0 0 7px 15px;
+}
+.mobile__catalog_book .content__book_links span:not(.title):before {
+    content: '';
+    width: 5px;
+    height: 4px;
+    background-color: #000;
+    border-radius: 100%;
+    display: inline-block;
+    position: relative;
+    margin: 0 10px 0 0;
+    top: 0px;
+}
+.mobile__catalog_book .content__book .content__book_links a {
+    position: relative;
+    display: flex;
+    width: 100%;
+    white-space: nowrap;
+}
+.mobile__catalog_book .content__book .content__book_links a:after {
+    content: '';
+    width: 100%;
+    display: flex;
+    border-bottom: 1px dashed #000;
+    align-self: flex-end;
+    position: relative;
+    top: -5px;
+    margin: 0 10px 0 12px;
+}
+.mobile__catalog_book .content__book_links span:not(.title):after {
+}
+.mobile__catalog_book .content__book_links span:not(.title):after {
+    counter-increment: section;
+    content: counter(section) "";
+    text-align: left;
+    display: inline-block;
+    width: 21px;
+}
+.mobile__catalog_book .section:not(.content__book) > a {
+    position: absolute;
+    bottom: 11px;
+    left: 16px;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+}
+#sgpb-popup-dialog-main-div {
+    padding: 0 0!important;
+}
+#sgpb-popup-dialog-main-div p {
+    margin: 0 0!important;
+}
+
+#sgpb-popup-dialog-main-div .sg-popup-builder-content {
+    overflow: hidden;
 }
 
 @media (min-width: 900px) {

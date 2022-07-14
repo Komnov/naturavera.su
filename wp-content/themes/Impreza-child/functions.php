@@ -11,3 +11,11 @@ function add_gallery_thumbnail_size($size){
     $size['crop']   = 1;
     return $size;
 }
+
+add_action( 'wp_enqueue_scripts', 'theme_name_scripts' );
+// function theme_name_scripts() {
+//     wp_enqueue_style( 'jquery.fsscroll.css', '/wp-content/themes/Impreza-child/assets/css/jquery.fsscroll.css' );
+//     wp_enqueue_script( 'jquery.fsscroll.js', '/wp-content/themes/Impreza-child/assets/js/jquery.fsscroll.js', array(), '1.0.0', true );
+    wp_enqueue_script( 'main.js', '/wp-content/themes/Impreza-child/assets/js/main.js', array(), '1.0.0', true );
+// }
+
