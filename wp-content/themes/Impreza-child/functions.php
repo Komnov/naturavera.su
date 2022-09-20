@@ -19,3 +19,5 @@ add_action( 'wp_enqueue_scripts', 'theme_name_scripts' );
     wp_enqueue_script( 'main.js', '/wp-content/themes/Impreza-child/assets/js/main.js', array(), '1.0.0', true );
 // }
 
+//увеличиваем количество создаваемых вариаций
+define( 'WC_MAX_LINKED_VARIATIONS', 400 );
