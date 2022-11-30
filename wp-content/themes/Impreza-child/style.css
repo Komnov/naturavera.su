@@ -183,6 +183,91 @@ footer a[data-toggle="fc_modal"] span:hover {
 #sgpb-popup-dialog-main-div .sg-popup-builder-content {
     overflow: hidden;
 }
+.contact__map {
+    position: relative;
+}
+.map__container {
+    position: absolute;
+    top: 4%;
+    left: 2%;
+    background-color: #0b544de6;
+    padding: 25px;
+    color: #fff;
+}
+.map__container a {
+    color: #fff;
+}
+.map__container .contact__list {
+    display: flex;
+    flex-direction: column;
+}
+.map__container .contact__item:not(:last-child) {
+    padding: 0 0 15px 0;
+    margin: 0 0 20px 0;
+    border-bottom: 1px solid #fff;
+}
+.map__container .contact__item > div:not(.contact__item_title) *,
+.map__container .contact__item > div:not(.contact__item_title) {
+    font-size: 16px;
+}
+.map__container .contact__item a:hover {
+    transition: 0.3s;
+    color: #DCAC0E;
+    text-decoration: underline;
+}
+.map__container .contact__item:not(.franchise) > div:not(.contact__item_title) {
+    margin: 0 0 0 35px;
+}
+.map__container .contact__item:not(.franchise) > div:not(.contact__item_title):not(:last-child) {
+    margin: 0 0 10px 35px;
+}
+.map__container .contact__item > div:not(:last-child) {
+    margin: 0 0 15px 0;
+}
+.map__container .contact__item .contact__item_title {
+    color: #DCAC0E;
+    font-size: 18px;
+    margin: 0 0 20px 0;
+    font-weight: 500;
+}
+.map__container .contact__item .contact__item_phone::before,
+.map__container .contact__item .contact__item_mail::before,
+.map__container .contact__item .contact__item_adress::before {
+    content: '';
+    position: relative;
+    top: 2px;
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    margin: 0 15px 0 0
+}
+.map__container .contact__item .contact__item_phone::before {
+    background: url('/wp-content/themes/Impreza-child/assets/img/icons/phone.svg') center / contain no-repeat;
+} 
+.map__container .contact__item .contact__item_mail::before {
+    background: url('/wp-content/themes/Impreza-child/assets/img/icons/mail.svg') center / contain no-repeat;
+    ;
+}
+.map__container .contact__item .contact__item_adress::before {
+    background: url('/wp-content/themes/Impreza-child/assets/img/icons/geo.svg') center / contain no-repeat;
+}
+.map__container .contact__item.franchise {
+    display: flex;
+    flex-wrap: wrap;
+}
+.map__container .contact__item.franchise .contact__item_title {
+    width: 100%;
+}
+.map__container .contact__item.franchise > div:not(.contact__item_title):not(:last-child) {
+    margin: 0 15% 0 35px;
+}
+.map__container .contact__item.franchise > div:not(.contact__item_title) > *:not(:last-child) {
+    margin: 0 0 10px 0;
+}
+
+
+
+
 
 @media (min-width: 900px) {
     body.home.page-template-default #page-header {
@@ -238,6 +323,20 @@ footer a[data-toggle="fc_modal"] span:hover {
     }
     .l-header.pos_fixed {
         box-shadow: -1px -1px 11px #0000008c;
+    }
+    .map__container {
+        position: relative;
+        top: initial;
+        left: initial;
+    }
+    .map__container .contact__item:not(.franchise) > div:not(.contact__item_title):not(:last-child) {
+        margin: 0 0 10px 20px;
+    }
+    .map__container .contact__item:not(.franchise) > div:not(.contact__item_title) {
+        margin: 0 0 0px 20px;
+    }
+    .map__container .contact__item.franchise > div:not(.contact__item_title):not(:last-child) {
+        margin: 0 0px 30px 0;
     }
 }
 /*@media (max-width: 992px)*/
