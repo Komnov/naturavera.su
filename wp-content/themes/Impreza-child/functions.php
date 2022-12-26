@@ -21,3 +21,11 @@ add_action( 'wp_enqueue_scripts', 'theme_name_scripts' );
 
 //увеличиваем количество создаваемых вариаций
 define( 'WC_MAX_LINKED_VARIATIONS', 400 );
+
+//дополнительное оповещение о email комментариях
+function comment_notification( $emails, $comment_id ) {
+    $emails = array( 'malistova.i@2-mk.com' );
+    return $emails;
+}
+add_filter( 'comment_moderation_recipients', 'comment_notification', 11, 2 );
+add_filter( 'comment_notification_recipients', 'comment_notification', 11, 2 );
