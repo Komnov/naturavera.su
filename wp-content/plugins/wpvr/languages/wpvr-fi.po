@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP VR\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-11 10:17+0000\n"
+"PO-Revision-Date: 2019-12-18 06:51+0000\n"
+"Last-Translator: devadmin <tipu@coderex.co>\n"
+"Language-Team: Finnish\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.5"
+
+#: admin/partials/wpvr_license.php:28 admin/partials/wpvr_license.php:38
+msgid "Activate License"
+msgstr "Aktivoi lisenssi"
+
+#: admin/partials/wpvr_documentation.php:53
+msgid ""
+"Before You start, you can check our Documentation to get familiar with WP VR "
+"- 360 Panorama and virtual tour creator for WordPress."
+msgstr ""
+"Ennen aloittamista voit tutustua dokumentaatioomme perehtyäksesi WP VR-360 "
+"Panoraman ja WordPressin virtuaalisen kiertueen luojaan."
+
+#: admin/partials/wpvr_documentation.php:73
+msgid ""
+"Can't find solution on with our documentation? Just Post a ticket on Support "
+"forum. We are to solve your issue."
+msgstr ""
+"Etkö löydä ratkaisua dokumentaatioissamme? Lähetä vain lippu tukifoorumiin. "
+"Meidän on ratkaistava ongelmasi."
+
+#: admin/partials/wpvr-meta-box-shortcode-display.php:29
+msgid "Check how to use: "
+msgstr "Katso kuinka käyttää:"
+
+#: admin/partials/wpvr_documentation.php:166
+msgid "Company logo"
+msgstr "Yrityksen logo"
+
+#: admin/partials/wpvr_documentation.php:153
+msgid "Compass Switch"
+msgstr "Kompassikytkin"
+
+#: admin/partials/wpvr_documentation.php:164
+msgid "Custom control buttons"
+msgstr "Mukautetut ohjauspainikkeet"
+
+#: admin/partials/wpvr_documentation.php:163
+msgid "Custom scene gallery"
+msgstr "Mukautettu kohtausgalleria"
+
+#: admin/partials/wpvr_documentation.php:156
+msgid "Customize each scene's default face on load"
+msgstr "Mukauta kunkin kohtauksen oletusasteet kuormitettaessa"
+
+#: admin/partials/wpvr_documentation.php:151
+msgid "Customized hotspot icon"
+msgstr "Muokattu hotspot-kuvake"
+
+#: admin/partials/wpvr_license.php:34
+msgid "Deactivate License"
+msgstr "Poista käyttöoikeus käytöstä"
+
+#: admin/partials/wpvr_documentation.php:154
+msgid "Default zoom level"
+msgstr "Oletusarvoinen zoomaustaso"
+
+#: admin/partials/wpvr_documentation.php:178
+msgid ""
+"Do not close or refresh the page during import process. It may take few "
+"minutes."
+msgstr ""
+"Älä sulje tai päivitä sivua tuonnin aikana. Se voi viedä muutaman minuutin."
+
+#: admin/partials/wpvr_documentation.php:47
+msgid "Documentation"
+msgstr "Dokumentointi"
+
+#: admin/partials/wpvr_documentation.php:161
+msgid "Duplicate tour support"
+msgstr "Päällekkäinen kiertuetuki"
+
+#: admin/partials/wpvr_documentation.php:152
+msgid "Dynamic Icon background color on hotspot"
+msgstr "Dynaamisen kuvakkeen taustaväri hotspotissa"
+
+#: admin/partials/wpvr_license.php:22
+msgid "Enter your license key, save changes and activate."
+msgstr "Kirjoita lisenssiavaimesi, tallenna muutokset ja aktivoi."
+
+#: admin/partials/wpvr_documentation.php:162
+msgid "File import & export system"
+msgstr "Tiedostojen tuonti- ja vientijärjestelmä"
+
+#: admin/partials/wpvr-meta-box-shortcode-display.php:24
+msgid "For classic editor:"
+msgstr "Klassinen toimittaja:"
+
+#: admin/partials/wpvr-meta-box-shortcode-display.php:27
+msgid "For gutenberg:"
+msgstr "Gutenbergille:"
+
+#: admin/partials/wpvr_documentation.php:23
+msgid "General"
+msgstr "yleinen"
+
+#: admin/partials/wpvr_documentation.php:169
+msgid "Get Premium Version"
+msgstr "Hanki premium-versio"
+
+#: admin/partials/wpvr_documentation.php:25
+msgid "Go Premium"
+msgstr "Go Premium"
+
+#: admin/partials/wpvr_documentation.php:165
+msgid "Google street view embed"
+msgstr "Google-katunäkymän upotus"
+
+#: admin/partials/wpvr_documentation.php:160
+msgid "Gyroscope support"
+msgstr "Gyroskoopin tuki"
+
+#: elementor/elements/Wpvr-widget.php:133
+msgid "Height:"
+msgstr "Korkeus:"
+
+#: admin/partials/wpvr_documentation.php:159
+msgid "Hotspot based scene face support"
+msgstr "Hotspot-pohjainen kohtaus kasvot"
+
+#. Author URI of the plugin
+msgid "http://rextheme.com/"
+msgstr "http://rextheme.com/"
+
+#. URI of the plugin
+msgid "https://rextheme.com/wpvr/"
+msgstr "https://rextheme.com/wpvr/"
+
+#: elementor/elements/Wpvr-widget.php:113
+msgid "ID:"
+msgstr "ID:"
+
+#: admin/partials/wpvr_documentation.php:29
+msgid "Import"
+msgstr "Tuonti"
+
+#: admin/partials/wpvr_documentation.php:177
+msgid "Import tour file: "
+msgstr "Tuo kiertotiedosto:"
+
+#: admin/partials/wpvr_license.php:18
+msgid "License Key"
+msgstr "Lisenssiavain"
+
+#: admin/partials/wpvr_documentation.php:105
+msgid "Make WPVR Popular"
+msgstr "Tee WPVR: stä suosittu"
+
+#: admin/partials/wpvr_documentation.php:155
+msgid "Maximum and minimum zoom range"
+msgstr "Suurin ja pienin zoomausalue"
+
+#: admin/partials/wpvr_documentation.php:167
+msgid "Personalized support on both support forum and our support e-mail."
+msgstr "Henkilökohtainen tuki sekä tukifoorumeilla että tukisähköpostilla."
+
+#: admin/partials/wpvr_documentation.php:77
+msgid "Post a Ticket"
+msgstr "Lähetä lippu"
+
+#: elementor/elements/Wpvr-widget.php:136
+msgid "Put value in (px)"
+msgstr "Lisää arvo (px)"
+
+#: elementor/elements/Wpvr-widget.php:143
+msgid "Radius:"
+msgstr "Lisää arvo (px)"
+
+#: admin/partials/wpvr_documentation.php:115
+msgid "Rate Us! "
+msgstr "Anna meille arvosana!"
+
+#. Author of the plugin
+msgid "Rextheme"
+msgstr "Rextheme"
+
+#: admin/partials/wpvr_documentation.php:157
+msgid "Scene grab control and custom boundary for each scene"
+msgstr ""
+"Kohtauksen tarttumisen hallinta ja mukautetut rajat jokaiselle kohtaukselle"
+
+#: admin/partials/wpvr_documentation.php:158
+msgid "Scene title and author tag support"
+msgstr "Kohtauksen otsikko ja kirjailijatagin tuki"
+
+#: admin/partials/wpvr_documentation.php:125
+msgid "Share On"
+msgstr "Jaa"
+
+#: admin/partials/wpvr_documentation.php:130
+msgid "Share on Facebook"
+msgstr "Jaa Facebookissa"
+
+#: admin/partials/wpvr_documentation.php:132
+msgid "Share on Google+"
+msgstr "Jaa Google+ -palvelussa"
+
+#: admin/partials/wpvr_documentation.php:133
+msgid "Share on LinkedIn"
+msgstr "Jaa LinkedInissä"
+
+#: admin/partials/wpvr_documentation.php:131
+msgid "Share on Twitter"
+msgstr "Jaa Twitterissä"
+
+#: admin/partials/wpvr_documentation.php:86
+msgid "Share Your Thoughts"
+msgstr "Jaa ajatuksesi"
+
+#: admin/partials/wpvr_documentation.php:96
+msgid "Suggest"
+msgstr "Ehdottaa"
+
+#: admin/partials/wpvr_documentation.php:67
+msgid "Support"
+msgstr "Tuki"
+
+#: admin/partials/wpvr-meta-box-shortcode-display.php:25
+msgid ""
+"To use this Wpvr tour in your posts or pages use the following shortcode:"
+msgstr ""
+"Käytä tätä WPVR-kiertuetta viesteissäsi tai sivuillasi käyttämällä seuraavaa "
+"lyhytkoodia:"
+
+#: admin/partials/wpvr_documentation.php:150
+msgid "Unlimited hotspots"
+msgstr "Rajoittamaton yhteyspiste"
+
+#: admin/partials/wpvr_documentation.php:149
+msgid "Unlimited scenes"
+msgstr "Rajoittamaton kohtaus"
+
+#: admin/partials/wpvr_documentation.php:204
+msgid "Upgrade to Pro"
+msgstr "Päivittää Pro: hon"
+
+#: wpvr.php:810
+msgid "Upgrade to pro"
+msgstr "Päivittää Pro: hon"
+
+#: admin/partials/wpvr_documentation.php:24
+msgid "Video Tutorials"
+msgstr "Video-oppaat"
+
+#: admin/partials/wpvr_documentation.php:57
+msgid "View Documentation"
+msgstr "Näytä dokumentaatio"
+
+#: admin/partials/wpvr_documentation.php:147
+msgid "Why upgrade to Premium Version?"
+msgstr "Miksi päivittää premium-versioon?"
+
+#: elementor/elements/Wpvr-widget.php:123
+msgid "Width:"
+msgstr "Leveys:"
+
+#. Name of the plugin
+msgid "WP VR"
+msgstr "WP VR"
+
+#. Description of the plugin
+msgid ""
+"WP VR - 360 Panorama and virtual tour creator for WordPress is a customized "
+"panaroma & virtual builder tool for WordPress Website."
+msgstr ""
+"WP VR - 360 Panoraama ja virtuaalikiertueiden luoja WordPressille on "
+"räätälöity panoraama- ja virtuaalinen rakennustyökalu WordPress-"
+"verkkosivustoon."
+
+#: elementor/elements/Wpvr-widget.php:43
+msgid "Wpvr"
+msgstr "WPVR"
+
+#: elementor/elements/Wpvr-widget.php:105
+msgid "Wpvr Setup"
+msgstr "WPVR-asennus"
+
+#: admin/partials/wpvr_documentation.php:111
+msgid ""
+"Your rating and feedback matters to us. If you are happy with WP VR - 360 "
+"Panorama and virtual tour creator for WordPress give us a rating."
+msgstr ""
+"Arvostelu ja palaute ovat meille tärkeitä. Jos olet tyytyväinen WP VR - 360 "
+"Panorama -sovellukseen ja WordPressin virtuaalikierroksen luoja, antaa "
+"meille arvosanan."
+
+#: admin/partials/wpvr_documentation.php:92
+msgid ""
+"Your suggestions are valubale to us. It can help to make wpvr even better."
+msgstr ""
+"Ehdotuksesi ovat arvokkaita meille. Se voi auttaa tekemään WPVR: stä vielä "
+"paremman."

@@ -265,7 +265,41 @@ footer a[data-toggle="fc_modal"] span:hover {
     margin: 0 0 10px 0;
 }
 
+/*3d tour 3д тур*/
+#tour__row .tour__images .ngg-gallery-thumbnail-box {
+    width: 33%;
+}
+#tour__row .tour__images .ngg-galleryoverview {
+    display: flex!important;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 11px 0 0 0;
+}
+#tour__row .tour__images .ngg-galleryoverview .ngg-gallery-thumbnail img {
+    max-height: 120px;
+    object-fit: cover;
+}
+h3 {
+    text-align: center;
+    margin: 0 0;
+    padding: 0 0;
+    text-transform: uppercase;
+}
+#tour__row_title {
+    text-transform: uppercase;
+}
+.tour__adress {
+    line-height: 22px;
+    margin: 10px 0 0 0;
+}
+#tour__row .ngg-navigation {
+    margin: 0 auto;
+}
+#tour__row .tour__title {
+    margin: 0 0 20px 0;
+}
 
+/*3d tour 3д тур*/
 
 
 
@@ -276,9 +310,27 @@ footer a[data-toggle="fc_modal"] span:hover {
     body.home.page-template-default #page-header.sticky {
         position: fixed;
     }
+    .tour__3d {
+        margin: 15px 0 0 0;
+    }
+    #tour__row_title {
+        margin-top: 8%;
+        margin-bottom: 1%;
+    }
+    #tour__row_title * {
+        padding: 0 0;
+    }
+    section#tour__row > div {
+        padding: 3% 0 1% 0;
+    }
+    .tour__adress div {
+        white-space: nowrap;
+    }
     
 }
 /*@media (min-width: 900px) */
+
+
 
 @media (max-width: 992px) {
     .for_shop ul.products {

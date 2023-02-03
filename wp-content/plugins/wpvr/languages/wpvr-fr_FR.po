@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP VR\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-11 10:17+0000\n"
+"PO-Revision-Date: 2019-12-16 09:24+0000\n"
+"Last-Translator: devadmin <tipu@coderex.co>\n"
+"Language-Team: French (France)\n"
+"Language: fr-FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.5"
+
+#: admin/partials/wpvr_license.php:28 admin/partials/wpvr_license.php:38
+msgid "Activate License"
+msgstr "Activer la licence"
+
+#: admin/partials/wpvr_documentation.php:53
+msgid ""
+"Before You start, you can check our Documentation to get familiar with WP VR "
+"- 360 Panorama and virtual tour creator for WordPress."
+msgstr ""
+"Avant de commencer, vous pouvez consulter notre documentation pour vous "
+"familiariser avec WP VR - 360 Panorama et le créateur de visites virtuelles "
+"pour WordPress."
+
+#: admin/partials/wpvr_documentation.php:73
+msgid ""
+"Can't find solution on with our documentation? Just Post a ticket on Support "
+"forum. We are to solve your issue."
+msgstr ""
+"Vous ne trouvez pas de solution avec notre documentation? Il suffit de "
+"poster un ticket sur le forum d'assistance. Nous devons résoudre votre "
+"problème."
+
+#: admin/partials/wpvr-meta-box-shortcode-display.php:29
+msgid "Check how to use: "
+msgstr "Vérifiez comment utiliser:"
+
+#: admin/partials/wpvr_documentation.php:166
+msgid "Company logo"
+msgstr "Logo d'entreprise"
+
+#: admin/partials/wpvr_documentation.php:153
+msgid "Compass Switch"
+msgstr "Commutateur de boussole"
+
+#: admin/partials/wpvr_documentation.php:164
+msgid "Custom control buttons"
+msgstr "Boutons de contrôle personnalisés"
+
+#: admin/partials/wpvr_documentation.php:163
+msgid "Custom scene gallery"
+msgstr "Galerie de scènes personnalisées"
+
+#: admin/partials/wpvr_documentation.php:156
+msgid "Customize each scene's default face on load"
+msgstr "Personnaliser le visage par défaut de chaque scène lors du chargement"
+
+#: admin/partials/wpvr_documentation.php:151
+msgid "Customized hotspot icon"
+msgstr "Icône de point d'accès personnalisé"
+
+#: admin/partials/wpvr_license.php:34
+msgid "Deactivate License"
+msgstr "Désactiver la licence"
+
+#: admin/partials/wpvr_documentation.php:154
+msgid "Default zoom level"
+msgstr "Niveau de zoom par défaut"
+
+#: admin/partials/wpvr_documentation.php:178
+msgid ""
+"Do not close or refresh the page during import process. It may take few "
+"minutes."
+msgstr ""
+"Ne fermez pas ou ne rafraîchissez pas la page pendant le processus "
+"d'importation. Cela peut prendre quelques minutes."
+
+#: admin/partials/wpvr_documentation.php:47
+msgid "Documentation"
+msgstr "Documentation"
+
+#: admin/partials/wpvr_documentation.php:161
+msgid "Duplicate tour support"
+msgstr "Prise en charge des tournées en double"
+
+#: admin/partials/wpvr_documentation.php:152
+msgid "Dynamic Icon background color on hotspot"
+msgstr "Couleur d'arrière-plan de l'icône dynamique sur le hotspot"
+
+#: admin/partials/wpvr_license.php:22
+msgid "Enter your license key, save changes and activate."
+msgstr ""
+"Saisissez votre clé de licence, enregistrez les modifications et activez."
+
+#: admin/partials/wpvr_documentation.php:162
+msgid "File import & export system"
+msgstr "Système d'importation et d'exportation de fichiers"
+
+#: admin/partials/wpvr-meta-box-shortcode-display.php:24
+msgid "For classic editor:"
+msgstr "Pour l'éditeur classique:"
+
+#: admin/partials/wpvr-meta-box-shortcode-display.php:27
+msgid "For gutenberg:"
+msgstr "Pour gutenberg:"
+
+#: admin/partials/wpvr_documentation.php:23
+msgid "General"
+msgstr "Général"
+
+#: admin/partials/wpvr_documentation.php:169
+msgid "Get Premium Version"
+msgstr "Obtenez la version Premium"
+
+#: admin/partials/wpvr_documentation.php:25
+msgid "Go Premium"
+msgstr "Passer en Premium"
+
+#: admin/partials/wpvr_documentation.php:165
+msgid "Google street view embed"
+msgstr "Google Street View intégré"
+
+#: admin/partials/wpvr_documentation.php:160
+msgid "Gyroscope support"
+msgstr "Prise en charge du gyroscope"
+
+#: elementor/elements/Wpvr-widget.php:133
+msgid "Height:"
+msgstr "La taille:"
+
+#: admin/partials/wpvr_documentation.php:159
+msgid "Hotspot based scene face support"
+msgstr "Prise en charge des visages de scène basés sur Hotspot"
+
+#. Author URI of the plugin
+msgid "http://rextheme.com/"
+msgstr "http://rextheme.com/"
+
+#. URI of the plugin
+msgid "https://rextheme.com/wpvr/"
+msgstr "https://rextheme.com/wpvr/"
+
+#: elementor/elements/Wpvr-widget.php:113
+msgid "ID:"
+msgstr "Identifiant:"
+
+#: admin/partials/wpvr_documentation.php:29
+msgid "Import"
+msgstr "Importation"
+
+#: admin/partials/wpvr_documentation.php:177
+msgid "Import tour file: "
+msgstr "Importer le fichier de visite:"
+
+#: admin/partials/wpvr_license.php:18
+msgid "License Key"
+msgstr "Clé de licence"
+
+#: admin/partials/wpvr_documentation.php:105
+msgid "Make WPVR Popular"
+msgstr "Rendre WPVR populaire"
+
+#: admin/partials/wpvr_documentation.php:155
+msgid "Maximum and minimum zoom range"
+msgstr "Plage de zoom maximale et minimale"
+
+#: admin/partials/wpvr_documentation.php:167
+msgid "Personalized support on both support forum and our support e-mail."
+msgstr ""
+"Support personnalisé sur le forum de support et notre e-mail de support."
+
+#: admin/partials/wpvr_documentation.php:77
+msgid "Post a Ticket"
+msgstr "Publier un ticket"
+
+#: elementor/elements/Wpvr-widget.php:136
+msgid "Put value in (px)"
+msgstr "Mettre de la valeur dans (PX)"
+
+#: elementor/elements/Wpvr-widget.php:143
+msgid "Radius:"
+msgstr "Rayon:"
+
+#: admin/partials/wpvr_documentation.php:115
+msgid "Rate Us! "
+msgstr "Évaluez nous!"
+
+#. Author of the plugin
+msgid "Rextheme"
+msgstr "Rextheme"
+
+#: admin/partials/wpvr_documentation.php:157
+msgid "Scene grab control and custom boundary for each scene"
+msgstr "Contrôle de saisie de scène et limite personnalisée pour chaque scène"
+
+#: admin/partials/wpvr_documentation.php:158
+msgid "Scene title and author tag support"
+msgstr "Prise en charge du titre de la scène et de la balise d'auteur"
+
+#: admin/partials/wpvr_documentation.php:125
+msgid "Share On"
+msgstr "Partager sur"
+
+#: admin/partials/wpvr_documentation.php:130
+msgid "Share on Facebook"
+msgstr "Partager sur Facebook"
+
+#: admin/partials/wpvr_documentation.php:132
+msgid "Share on Google+"
+msgstr "Partager sur Google+"
+
+#: admin/partials/wpvr_documentation.php:133
+msgid "Share on LinkedIn"
+msgstr "Partager sur LinkedIn"
+
+#: admin/partials/wpvr_documentation.php:131
+msgid "Share on Twitter"
+msgstr "Partager sur Twitter"
+
+#: admin/partials/wpvr_documentation.php:86
+msgid "Share Your Thoughts"
+msgstr "Partage tes pensées"
+
+#: admin/partials/wpvr_documentation.php:96
+msgid "Suggest"
+msgstr "Suggérer"
+
+#: admin/partials/wpvr_documentation.php:67
+msgid "Support"
+msgstr "Soutien"
+
+#: admin/partials/wpvr-meta-box-shortcode-display.php:25
+msgid ""
+"To use this Wpvr tour in your posts or pages use the following shortcode:"
+msgstr ""
+"Pour utiliser cette visite Wpvr dans vos publications ou pages, utilisez le "
+"shortcode suivant:"
+
+#: admin/partials/wpvr_documentation.php:150
+msgid "Unlimited hotspots"
+msgstr "Hotspots illimités"
+
+#: admin/partials/wpvr_documentation.php:149
+msgid "Unlimited scenes"
+msgstr "Scènes illimitées"
+
+#: admin/partials/wpvr_documentation.php:204
+msgid "Upgrade to Pro"
+msgstr "Passer à Pro"
+
+#: wpvr.php:810
+msgid "Upgrade to pro"
+msgstr "Passer à Pro"
+
+#: admin/partials/wpvr_documentation.php:24
+msgid "Video Tutorials"
+msgstr "Tutoriels vidéos"
+
+#: admin/partials/wpvr_documentation.php:57
+msgid "View Documentation"
+msgstr "Voir la documentation"
+
+#: admin/partials/wpvr_documentation.php:147
+msgid "Why upgrade to Premium Version?"
+msgstr "Pourquoi passer à la version Premium?"
+
+#: elementor/elements/Wpvr-widget.php:123
+msgid "Width:"
+msgstr "Largeur:"
+
+#. Name of the plugin
+msgid "WP VR"
+msgstr "WP VR"
+
+#. Description of the plugin
+msgid ""
+"WP VR - 360 Panorama and virtual tour creator for WordPress is a customized "
+"panaroma & virtual builder tool for WordPress Website."
+msgstr ""
+"WP VR - 360 Panorama et créateur de visites virtuelles pour WordPress est un "
+"outil de création de panorama et de création virtuelle personnalisé pour le "
+"site Web WordPress."
+
+#: elementor/elements/Wpvr-widget.php:43
+msgid "Wpvr"
+msgstr "WPVR"
+
+#: elementor/elements/Wpvr-widget.php:105
+msgid "Wpvr Setup"
+msgstr "Configuration de WPVR"
+
+#: admin/partials/wpvr_documentation.php:111
+msgid ""
+"Your rating and feedback matters to us. If you are happy with WP VR - 360 "
+"Panorama and virtual tour creator for WordPress give us a rating."
+msgstr ""
+"Votre évaluation et vos commentaires sont importants pour nous. Si vous êtes "
+"satisfait de WP VR - 360 Panorama et que le créateur de visites virtuelles "
+"pour WordPress nous donne une note."
+
+#: admin/partials/wpvr_documentation.php:92
+msgid ""
+"Your suggestions are valubale to us. It can help to make wpvr even better."
+msgstr ""
+"Vos suggestions nous sont précieuses. Cela peut aider à rendre wpvr encore "
+"meilleur."

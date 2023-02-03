@@ -1,0 +1,296 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP VR\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-11 10:17+0000\n"
+"PO-Revision-Date: 2019-12-13 09:34+0000\n"
+"Last-Translator: devadmin <tipu@coderex.co>\n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.5"
+
+#: admin/partials/wpvr_license.php:28 admin/partials/wpvr_license.php:38
+msgid "Activate License"
+msgstr "ライセンスをアクティベート"
+
+#: admin/partials/wpvr_documentation.php:53
+msgid ""
+"Before You start, you can check our Documentation to get familiar with WP VR "
+"- 360 Panorama and virtual tour creator for WordPress."
+msgstr ""
+"開始する前に、ドキュメントを確認して、WP VR-360 PanoramaおよびWordPressのバーチャルツアークリエーターに慣れてください。"
+
+#: admin/partials/wpvr_documentation.php:73
+msgid ""
+"Can't find solution on with our documentation? Just Post a ticket on Support "
+"forum. We are to solve your issue."
+msgstr "ドキュメントで解決策が見つかりませんか？ サポートフォーラムにチケットを投稿してください。 あなたの問題を解決します。"
+
+#: admin/partials/wpvr-meta-box-shortcode-display.php:29
+msgid "Check how to use: "
+msgstr "使用方法を確認します。"
+
+#: admin/partials/wpvr_documentation.php:166
+msgid "Company logo"
+msgstr "会社のロゴ"
+
+#: admin/partials/wpvr_documentation.php:153
+msgid "Compass Switch"
+msgstr "コンパススイッチ"
+
+#: admin/partials/wpvr_documentation.php:164
+msgid "Custom control buttons"
+msgstr "カスタムコントロールボタン"
+
+#: admin/partials/wpvr_documentation.php:163
+msgid "Custom scene gallery"
+msgstr "カスタムシーンギャラリー"
+
+#: admin/partials/wpvr_documentation.php:156
+msgid "Customize each scene's default face on load"
+msgstr "ロード時に各シーンのデフォルトの顔をカスタマイズ"
+
+#: admin/partials/wpvr_documentation.php:151
+msgid "Customized hotspot icon"
+msgstr "カスタマイズされたホットスポットアイコン"
+
+#: admin/partials/wpvr_license.php:34
+msgid "Deactivate License"
+msgstr "ライセンスを無効にする"
+
+#: admin/partials/wpvr_documentation.php:154
+msgid "Default zoom level"
+msgstr "デフォルトのズームレベル"
+
+#: admin/partials/wpvr_documentation.php:178
+msgid ""
+"Do not close or refresh the page during import process. It may take few "
+"minutes."
+msgstr "インポートプロセス中にページを閉じたり更新したりしないでください。 数分かかる場合があります。"
+
+#: admin/partials/wpvr_documentation.php:47
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: admin/partials/wpvr_documentation.php:161
+msgid "Duplicate tour support"
+msgstr "重複ツアーのサポート"
+
+#: admin/partials/wpvr_documentation.php:152
+msgid "Dynamic Icon background color on hotspot"
+msgstr "ホットスポットの動的アイコンの背景色"
+
+#: admin/partials/wpvr_license.php:22
+msgid "Enter your license key, save changes and activate."
+msgstr "ライセンスキーを入力し、変更を保存してアクティブ化します。"
+
+#: admin/partials/wpvr_documentation.php:162
+msgid "File import & export system"
+msgstr "ファイルのインポートおよびエクスポートシステム"
+
+#: admin/partials/wpvr-meta-box-shortcode-display.php:24
+msgid "For classic editor:"
+msgstr "クラシックエディターの場合："
+
+#: admin/partials/wpvr-meta-box-shortcode-display.php:27
+msgid "For gutenberg:"
+msgstr "グーテンベルクの場合："
+
+#: admin/partials/wpvr_documentation.php:23
+msgid "General"
+msgstr "全般"
+
+#: admin/partials/wpvr_documentation.php:169
+msgid "Get Premium Version"
+msgstr "プレミアム版を入手"
+
+#: admin/partials/wpvr_documentation.php:25
+msgid "Go Premium"
+msgstr "プレミアムへ"
+
+#: admin/partials/wpvr_documentation.php:165
+msgid "Google street view embed"
+msgstr "Googleストリートビューの埋め込み"
+
+#: admin/partials/wpvr_documentation.php:160
+msgid "Gyroscope support"
+msgstr "ジャイロスコープのサポート"
+
+#: elementor/elements/Wpvr-widget.php:133
+msgid "Height:"
+msgstr "高さ："
+
+#: admin/partials/wpvr_documentation.php:159
+msgid "Hotspot based scene face support"
+msgstr "ホットスポットベースのシーンフェイスサポート"
+
+#. Author URI of the plugin
+msgid "http://rextheme.com/"
+msgstr "http://rextheme.com/"
+
+#. URI of the plugin
+msgid "https://rextheme.com/wpvr/"
+msgstr "https://rextheme.com/wpvr/"
+
+#: elementor/elements/Wpvr-widget.php:113
+msgid "ID:"
+msgstr "ID："
+
+#: admin/partials/wpvr_documentation.php:29
+msgid "Import"
+msgstr "インポート"
+
+#: admin/partials/wpvr_documentation.php:177
+msgid "Import tour file: "
+msgstr "ツアーファイルのインポート："
+
+#: admin/partials/wpvr_license.php:18
+msgid "License Key"
+msgstr "ライセンスキー"
+
+#: admin/partials/wpvr_documentation.php:105
+msgid "Make WPVR Popular"
+msgstr "WPVRを人気にする"
+
+#: admin/partials/wpvr_documentation.php:155
+msgid "Maximum and minimum zoom range"
+msgstr "最大および最小ズーム範囲"
+
+#: admin/partials/wpvr_documentation.php:167
+msgid "Personalized support on both support forum and our support e-mail."
+msgstr "サポートフォーラムとサポートメールの両方でパーソナライズされたサポート。"
+
+#: admin/partials/wpvr_documentation.php:77
+msgid "Post a Ticket"
+msgstr "チケットを投稿する"
+
+#: elementor/elements/Wpvr-widget.php:136
+msgid "Put value in (px)"
+msgstr "（px）に値を入れる"
+
+#: elementor/elements/Wpvr-widget.php:143
+msgid "Radius:"
+msgstr "半径："
+
+#: admin/partials/wpvr_documentation.php:115
+msgid "Rate Us! "
+msgstr "私たちを評価してください！"
+
+#. Author of the plugin
+msgid "Rextheme"
+msgstr "Rextheme"
+
+#: admin/partials/wpvr_documentation.php:157
+msgid "Scene grab control and custom boundary for each scene"
+msgstr "シーングラブコントロールと各シーンのカスタム境界"
+
+#: admin/partials/wpvr_documentation.php:158
+msgid "Scene title and author tag support"
+msgstr "シーンのタイトルと作成者タグのサポート"
+
+#: admin/partials/wpvr_documentation.php:125
+msgid "Share On"
+msgstr "共有する"
+
+#: admin/partials/wpvr_documentation.php:130
+msgid "Share on Facebook"
+msgstr "Facebookでシェア"
+
+#: admin/partials/wpvr_documentation.php:132
+msgid "Share on Google+"
+msgstr "Google+で共有する"
+
+#: admin/partials/wpvr_documentation.php:133
+msgid "Share on LinkedIn"
+msgstr "LinkedInで共有する"
+
+#: admin/partials/wpvr_documentation.php:131
+msgid "Share on Twitter"
+msgstr "Twitterで共有する"
+
+#: admin/partials/wpvr_documentation.php:86
+msgid "Share Your Thoughts"
+msgstr "考えを共有する"
+
+#: admin/partials/wpvr_documentation.php:96
+msgid "Suggest"
+msgstr "提案する"
+
+#: admin/partials/wpvr_documentation.php:67
+msgid "Support"
+msgstr "サポート"
+
+#: admin/partials/wpvr-meta-box-shortcode-display.php:25
+msgid ""
+"To use this Wpvr tour in your posts or pages use the following shortcode:"
+msgstr "投稿またはページでこのWPvrツアーを使用するには、次のショートコードを使用します。"
+
+#: admin/partials/wpvr_documentation.php:150
+msgid "Unlimited hotspots"
+msgstr "無制限のホットスポット"
+
+#: admin/partials/wpvr_documentation.php:149
+msgid "Unlimited scenes"
+msgstr "無制限のシーン"
+
+#: admin/partials/wpvr_documentation.php:204
+msgid "Upgrade to Pro"
+msgstr "プロ仕様にアップグレードする"
+
+#: wpvr.php:810
+msgid "Upgrade to pro"
+msgstr "プロ仕様にアップグレードする"
+
+#: admin/partials/wpvr_documentation.php:24
+msgid "Video Tutorials"
+msgstr "ビデオチュートリアル"
+
+#: admin/partials/wpvr_documentation.php:57
+msgid "View Documentation"
+msgstr "ドキュメントを見る"
+
+#: admin/partials/wpvr_documentation.php:147
+msgid "Why upgrade to Premium Version?"
+msgstr "プレミアムバージョンにアップグレードする理由"
+
+#: elementor/elements/Wpvr-widget.php:123
+msgid "Width:"
+msgstr "幅："
+
+#. Name of the plugin
+msgid "WP VR"
+msgstr "WP VR"
+
+#. Description of the plugin
+msgid ""
+"WP VR - 360 Panorama and virtual tour creator for WordPress is a customized "
+"panaroma & virtual builder tool for WordPress Website."
+msgstr ""
+"WP VR-WordPress用360パノラマおよびバーチャルツアークリエーターは、WordPress "
+"Webサイト用のカスタマイズされたパナロマおよびバーチャルビルダーツールです。"
+
+#: elementor/elements/Wpvr-widget.php:43
+msgid "Wpvr"
+msgstr "WPVR"
+
+#: elementor/elements/Wpvr-widget.php:105
+msgid "Wpvr Setup"
+msgstr "WPVRセットアップ"
+
+#: admin/partials/wpvr_documentation.php:111
+msgid ""
+"Your rating and feedback matters to us. If you are happy with WP VR - 360 "
+"Panorama and virtual tour creator for WordPress give us a rating."
+msgstr ""
+"あなたの評価とフィードバックは私たちにとって重要です。 WP VR-360 "
+"PanoramaとWordPressのバーチャルツアークリエーターに満足している場合は、評価をください。"
+
+#: admin/partials/wpvr_documentation.php:92
+msgid ""
+"Your suggestions are valubale to us. It can help to make wpvr even better."
+msgstr "あなたの提案は私たちにとって貴重です。 WPVRをさらに改善するのに役立ちます。"
