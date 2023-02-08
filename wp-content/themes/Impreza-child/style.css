@@ -267,7 +267,7 @@ footer a[data-toggle="fc_modal"] span:hover {
 
 /*3d tour 3д тур*/
 #tour__row .tour__images .ngg-gallery-thumbnail-box {
-    width: 33%;
+    width: 33.3%;
 }
 #tour__row .tour__images .ngg-galleryoverview {
     display: flex!important;
@@ -276,8 +276,9 @@ footer a[data-toggle="fc_modal"] span:hover {
     margin: 11px 0 0 0;
 }
 #tour__row .tour__images .ngg-galleryoverview .ngg-gallery-thumbnail img {
-    max-height: 120px;
+    height: 120px;
     object-fit: cover;
+    width: 100%;
 }
 h3 {
     text-align: center;
@@ -297,6 +298,7 @@ h3 {
 }
 #tour__row .tour__title {
     margin: 0 0 20px 0;
+    font-weight: 400;
 }
 
 /*3d tour 3д тур*/
@@ -326,11 +328,18 @@ h3 {
     .tour__adress div {
         white-space: nowrap;
     }
-    
+    #tour__row.last__row img {
+        width: 100%;
+        padding: 3%;
+    }
 }
 /*@media (min-width: 900px) */
 
 
+@media (max-width: 1600px) {
+
+}
+/*max-width: 1600px*/
 
 @media (max-width: 992px) {
     .for_shop ul.products {
