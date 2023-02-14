@@ -41,6 +41,7 @@ $us_layout = US_Layout::instance();
 	// Helper action
 	do_action( 'us_before_closing_head_tag' );
 	?>
+	<script type="text/javascript" src="https://vk.com/js/api/openapi.js?168"></script>
 </head>
 <body <?php body_class( 'l-body ' . $us_layout->body_classes() );
 if ( us_get_option( 'schema_markup' ) ) {

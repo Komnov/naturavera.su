@@ -152,7 +152,12 @@ if ( $us_layout->header_show != 'never' ) {
 </script>
 
 
-
+<script type="text/javascript">
+      VK.init({
+        apiId: 51549250,
+        onlyWidgets: true
+      });
+</script>
 
 </body>
 </html>
